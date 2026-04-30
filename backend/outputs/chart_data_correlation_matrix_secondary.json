@@ -1,0 +1,18 @@
+{
+  "chart_type": "heatmap",
+  "title": "Feature Correlation Matrix",
+  "labels": [
+    "Number_of_vehicles_involved",
+    "Number_of_casualties"
+  ],
+  "values": [
+    [
+      1.0,
+      0.213
+    ],
+    [
+      0.213,
+      1.0
+    ]
+  ]
+}

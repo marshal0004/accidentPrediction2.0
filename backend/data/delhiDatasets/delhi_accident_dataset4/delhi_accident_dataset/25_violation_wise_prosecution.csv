@@ -1,0 +1,41 @@
+Violation_Type,HV_Compound,HV_Court,HV_Fatal,MV_Compound,MV_Court,MV_Fatal,Other_Compound,Other_Court,Other_Fatal,Total_Compound,Total_Court
+Dangerous Driving,2522,10696,30,1317,11373,26,81,1455,147,288
+Permit Violation,5511,-,-,5943,-,27,1113,136,936,12
+Drink Driving,42,628,2,106,1771,2,14,3,-,43
+Playing Music,42,152,-,2,7,-,-,-,-,2
+Pressure Horn,75,1222,-,6,2318,-,1,-,10,1
+Tinted Glass,52,5774,0,-,-,9,-,-,4,-
+High/Long Load,-,-,-,-,-,2,-,-,-,-
+Footboard Travel,-,-,-,-,-,1,-,-,-,-
+Stop Line Crossing,1559,12397,9,1086,7856,1,31,57,4,76
+W/O Pollution Certi.,670,28195,48,921,70992,30,119,10,9,
+W/O Registration,354,6729,306,1027,9291,531,160,1,26,551
+Defective Number Plate,315,4949,25,1718,8423,5,118,1,6,251
+Owner Allowing U/A Major Person To Drive,174,2422,52,1012,10678,26,73,18,42,2284
+Using Veh Unsafe Condn.,3,7,-,3,33,-,-,-,-,78
+Using Top Light,-,9,-,-,-,-,-,-,-,-
+Yellow Line Violation,893,3120,53,1260,147,-,-,34,-,2
+W/O Light/Head/Ind./Tail,2010,102,2,110,19,1,4,6,4,18
+Not Driving In Proper Lane,19,226,-,2,-,7,7,131,15,0
+Stop Without Bus Stop,-,-,-,-,-,6,-,18,59,-
+Park/Wait In Bus Lane,534,1061,5,4605,604,-,36,39,-,1542
+Wrong Overtaking,3,2,-,4,4,-,9,74,8,19
+W/O Uniform Dvr/Condtr,52,-,-,9,-,1,7,1,2,-
+Over Charge/Misbehave,3,-,-,9,-,3,-,-,-,4
+Over Crowd In Pass Veh,325,-,-,4233,-,590,65,1,4,1636
+Refusal By Taxi/TSR,1,-,-,12,-,-,-,-,-,2
+One Way Violation,7740,40323,172,8245,57892,20,125,207,34,835
+Carry Goods In Pass Veh,163,-,-,1061,-,506,22,-,-,139
+Carry Pass In Goods Veh,-,-,-,-,-,38,-,-,-,-
+Honking Horn,-,123,-,-,153,-,0,1,1,-
+Unauthorized Cng/Lpg,11,565,6,2,17,-,-,-,-,-
+Not Using Seat Belt,2188,49652,0,-,-,21,57,177,24,-
+Use M.Phone While Drive,516,19145,13,182,4192,9,21,29,1,82
+Using Pvt.Veh As Taxi,-,12588,0,0,-,4,-,-,-,-
+Smoking While Driving,94,2217,2,37,122,1,5,3,3,2
+Others,4222,17358,35,4196,23616,18,251,43,253,313
+W/O Insurance,312,3071,14,370,5490,21,19,3,7,368
+W/O Psv Badge,1,,,2,,8,1,,,
+Rupd/Lupd (124 Cmvr),,,,,,3,,,,
+Using U/A Coloured Light,8,34,,1,,,,,,
+Total,59233,396028,1325,103177,516018,4827,3016,1844,61712,2053

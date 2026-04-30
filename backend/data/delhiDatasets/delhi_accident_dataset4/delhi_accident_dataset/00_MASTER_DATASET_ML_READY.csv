@@ -1,0 +1,242 @@
+Location_Name,Location_Type,District,Circle,Fatal_2019,Fatal_2020,Fatal_2021,Injury_Simple_2019,Injury_Simple_2020,Injury_Simple_2021,Non_Injury_2019,Non_Injury_2020,Non_Injury_2021,Total_2019,Total_2020,Total_2021,Persons_Killed,Persons_Injured,Simple_Day,Simple_Night,Fatal_Day,Fatal_Night,Data_Source_Table
+Kalyan Puri,Circle,,Kalyan Puri,57,33,43,99,91,121,2,0,0,158,124,164,,,,,,,TABLE_6.4
+Kapashera,Circle,,Kapashera,29,23,25,66,37,50,0,0,0,95,60,75,,,,,,,TABLE_6.4
+Lajpat Nagar,Circle,,Lajpat Nagar,33,20,20,73,67,68,1,1,2,107,88,90,,,,,,,TABLE_6.4
+Mehrauli,Circle,,Mehrauli,21,17,27,77,55,57,0,0,0,98,72,84,,,,,,,TABLE_6.4
+Model Town,Circle,,Model Town,41,40,29,109,91,94,1,0,0,151,131,123,,,,,,,TABLE_6.4
+Maya Puri,Circle,,Maya Puri,19,29,27,55,39,47,3,0,1,77,68,75,,,,,,,TABLE_6.4
+Mandawali,Circle,,Mandawali,31,14,11,81,73,64,3,0,0,115,88,75,,,,,,,TABLE_6.4
+Mangol Puri,Circle,,Mangol Puri,58,67,49,188,163,152,1,1,0,247,231,201,,,,,,,TABLE_6.4
+Najafgarh,Circle,,Najafgarh,50,44,58,106,106,104,0,1,0,156,150,162,,,,,,,TABLE_6.4
+Nangloi,Circle,,Nangloi,59,51,49,160,108,127,1,1,0,220,160,176,,,,,,,TABLE_6.4
+Narela,Circle,,Narela,37,41,39,95,49,60,0,0,1,132,90,100,,,,,,,TABLE_6.4
+Palam Airport,Circle,,Palam Airport,7,8,5,11,16,18,0,0,0,18,24,23,,,,,,,TABLE_6.4
+Punjabi Bagh,Circle,,Punjabi Bagh,24,24,40,119,82,74,2,0,1,145,106,115,,,,,,,TABLE_6.4
+Pahar Ganj,Circle,,Pahar Ganj,11,6,6,26,29,28,0,0,0,37,35,34,,,,,,,TABLE_6.4
+Pt. Street,Circle,,Pt. Street,13,13,15,40,32,32,3,1,0,56,46,47,,,,,,,TABLE_6.4
+Pt. House,Circle,,Pt. House,0,0,0,1,2,6,0,1,0,1,3,6,,,,,,,TABLE_6.4
+Patel Nagar,Circle,,Patel Nagar,19,17,19,66,60,66,0,0,0,85,77,85,,,,,,,TABLE_6.4
+R.K. Puram,Circle,,R.K. Puram,18,10,11,74,29,53,4,0,0,96,39,64,,,,,,,TABLE_6.4
+Rajouri Garden,Circle,,Rajouri Garden,24,26,21,66,81,67,0,0,0,90,107,88,,,,,,,TABLE_6.4
+Rohini,Circle,,Rohini,32,34,42,155,103,102,3,1,3,190,138,147,,,,,,,TABLE_6.4
+Sadar Bazar,Circle,,Sadar Bazar,23,8,5,66,32,39,0,0,0,89,40,44,,,,,,,TABLE_6.4
+Shahdara,Circle,,Shahdara,31,15,29,121,65,96,0,0,0,152,80,125,,,,,,,TABLE_6.4
+Subzi Mandi,Circle,,Subzi Mandi,20,13,11,40,40,45,0,0,0,60,53,56,,,,,,,TABLE_6.4
+Sarita Vihar,Circle,,Sarita Vihar,40,19,28,122,113,116,2,0,0,164,132,144,,,,,,,TABLE_6.4
+Saket,Circle,,Saket,10,13,12,36,33,39,0,0,1,46,46,52,,,,,,,TABLE_6.4
+Sangam Vihar,Circle,,Sangam Vihar,19,11,15,92,45,66,1,0,0,112,56,81,,,,,,,TABLE_6.4
+Seema Puri,Circle,,Seema Puri,52,32,33,119,65,126,2,0,1,173,97,160,,,,,,,TABLE_6.4
+Khajoori,Circle,,Khajoori,30,25,22,132,79,100,0,1,0,162,105,122,,,,,,,TABLE_6.4
+Sukhdev Vihar,Circle,,Sukhdev Vihar,9,9,9,59,33,49,0,1,0,68,43,58,,,,,,,TABLE_6.4
+Tilak Nagar,Circle,,Tilak Nagar,27,31,36,108,73,88,0,0,1,135,104,125,,,,,,,TABLE_6.4
+Tilak Marg,Circle,,Tilak Marg,10,4,8,25,20,12,0,0,1,35,24,21,,,,,,,TABLE_6.4
+Tughlak Road,Circle,,Tughlak Road,6,3,4,10,10,13,1,0,0,17,13,17,,,,,,,TABLE_6.4
+Vivek Vihar,Circle,,Vivek Vihar,31,18,26,76,64,52,0,0,2,107,82,80,,,,,,,TABLE_6.4
+Vasant Vihar,Circle,,Vasant Vihar,32,26,17,91,53,71,1,0,2,124,79,90,,,,,,,TABLE_6.4
+Africa Avenue,Road,,,0,0,0,5,3,5,0,0,0,5,3,5,,,,,,,TABLE_6.5
+Alipur Road,Road,,,0,0,0,1,2,2,0,0,0,1,2,2,,,,,,,TABLE_6.5
+Anand Mai Marg,Road,,,10,8,5,19,12,15,0,0,2,29,20,22,,,,,,,TABLE_6.5
+Aruna Asaf Ali Marg,Road,,,2,1,1,13,3,7,1,0,0,16,4,8,,,,,,,TABLE_6.5
+Asaf Ali Road,Road,,,1,1,1,2,1,3,0,0,0,3,2,4,,,,,,,TABLE_6.5
+August Kranti Marg,Road,,,0,0,0,0,1,4,0,0,0,0,1,4,,,,,,,TABLE_6.5
+Aurobindo Marg,Road,,,10,6,3,17,19,15,1,0,0,28,25,18,,,,,,,TABLE_6.5
+Bahadur Shah Zr Marg,Road,,,3,2,1,2,2,7,1,0,0,6,4,8,,,,,,,TABLE_6.5
+Bawana Road,Road,,,12,14,19,22,17,28,0,0,0,34,31,47,,,,,,,TABLE_6.5
+Bhati Mine Marg,Road,,,2,0,0,7,7,1,0,0,0,9,7,1,,,,,,,TABLE_6.5
+Boulevard Road,Road,,,10,2,2,14,7,14,0,0,0,24,9,16,,,,,,,TABLE_6.5
+Captain Gaur Marg,Road,,,0,1,1,4,1,3,0,0,0,4,2,4,,,,,,,TABLE_6.5
+Chhatarpur Road,Road,,,1,0,1,4,3,0,0,0,0,5,3,1,,,,,,,TABLE_6.5
+Dhansa Road,Road,,,5,5,8,14,3,8,0,0,0,19,8,16,,,,,,,TABLE_6.5
+Desh Bandhu Gupta Rd,Road,,,7,2,3,11,12,11,0,0,1,18,14,15,,,,,,,TABLE_6.5
+Dr. Ambedkar Road,Road,,,2,0,2,4,2,2,0,0,0,6,2,4,,,,,,,TABLE_6.5
+DSIDC Narela Road,Road,,,2,2,0,4,0,1,0,0,0,6,2,1,,,,,,,TABLE_6.5
+Dwarka Road,Road,,,,0,,,0,,0,0,,0,0,,,,,,,,TABLE_6.5
+Faiz Road,Road,,,2,2,0,1,1,1,0,0,0,3,3,1,,,,,,,TABLE_6.5
+Ghuman Hera Marg,Road,,,1,0,2,1,1,2,0,0,0,2,1,4,,,,,,,TABLE_6.5
+Grand Trunk Road,Road,,,27,14,21,65,40,57,1,0,0,93,54,78,,,,,,,TABLE_6.5
+GTK road,Road,,,56,46,44,94,72,90,1,1,0,151,119,134,,,,,,,TABLE_6.5
+Gurgaon Road,Road,,,2,0,0,0,0,1,0,0,0,2,0,1,,,,,,,TABLE_6.5
+ISBT Road,Road,,,0,0,,1,0,,0,0,,1,0,,,,,,,,TABLE_6.5
+JawaharLal Nehru Rd,Road,,,5,4,1,11,1,14,0,0,0,16,5,15,,,,,,,TABLE_6.5
+Jharoda Road,Road,,,2,5,7,5,5,1,0,0,0,7,10,8,,,,,,,TABLE_6.5
+Kanjhawala Road,Road,,,2,10,6,9,23,25,0,0,0,11,33,31,,,,,,,TABLE_6.5
+Lala Lajpat Rai Path,Road,,,8,5,2,20,15,24,0,0,0,28,20,26,,,,,,,TABLE_6.5
+Loni Road,Road,,,3,4,2,10,3,11,0,0,0,13,7,13,,,,,,,TABLE_6.5
+Mahipal Pur Road,Road,,,8,8,3,24,14,11,0,0,0,32,22,14,,,,,,,TABLE_6.5
+Mandoli Road,Road,,,1,1,0,4,1,5,0,0,0,5,2,5,,,,,,,TABLE_6.5
+Mathura Road,Road,,,38,15,14,79,60,66,3,0,0,120,75,80,,,,,,,TABLE_6.5
+Mayapuri Marg,Road,,,1,2,4,2,1,4,0,0,1,3,3,9,,,,,,,TABLE_6.5
+Mehrauli Badarpur Road,Road,,,16,18,18,48,38,54,0,1,0,64,57,72,,,,,,,TABLE_6.5
+Mehrauli Gurgaon Rd,Road,,,5,2,11,20,10,12,0,0,0,25,12,23,,,,,,,TABLE_6.5
+Najafgarh Road,Road,,,30,20,28,99,84,78,0,0,1,129,104,107,,,,,,,TABLE_6.5
+Najafgarh Nangloi Road,Road,,,7,7,10,29,21,28,0,0,0,36,28,38,,,,,,,TABLE_6.5
+Nangloi Sultanpuri Road,Road,,,-,0,-,-,0,-,0,0,-,0,0,-,,,,,,,TABLE_6.5
+Naraina Road,Road,,,,1,0,,3,3,0,0,0,0,4,3,,,,,,,TABLE_6.5
+Narela Road,Road,,,3,6,9,18,8,12,0,0,0,21,14,21,,,,,,,TABLE_6.5
+Nelson Mandela Marg,Road,,,2,2,0,7,5,6,0,0,0,9,7,6,,,,,,,TABLE_6.5
+New Rohtak Road,Road,,,5,7,11,17,17,12,0,0,0,22,24,23,,,,,,,TABLE_6.5
+NH-24,Road,,,26,17,15,29,26,32,0,0,0,55,43,47,,,,,,,TABLE_6.5
+NH-8,Road,,,20,27,26,48,61,56,0,0,3,68,88,85,,,,,,,TABLE_6.5
+Noida DND Road,Road,,,5,3,4,6,6,6,0,0,0,11,9,10,,,,,,,TABLE_6.5
+Old Gurgaon Road,Road,,,0,1,2,2,2,3,0,0,0,2,3,5,,,,,,,TABLE_6.5
+Old Rohtak Road,Road,,,2,1,2,11,7,6,0,0,0,13,8,8,,,,,,,TABLE_6.5
+Olof Palme Marg,Road,,,1,0,,0,0,,0,0,,1,0,,,,,,,,TABLE_6.5
+Outer Circle Cp,Road,,,1,0,,5,3,,1,1,,7,4,,,,,,,,TABLE_6.5
+Outer Ring Road,Road,,,125,97,95,224,158,182,0,1,3,349,256,280,,,,,,,TABLE_6.5
+Palam Dabri Road,Road,,,1,0,0,2,1,1,0,0,0,3,1,1,,,,,,,TABLE_6.5
+Palla Road,Road,,,0,1,0,3,0,3,0,0,0,3,1,3,,,,,,,TABLE_6.5
+Panchkuian Road,Road,,,2,1,3,2,9,10,0,0,0,4,10,13,,,,,,,TABLE_6.5
+Pankha Road,Road,,,10,7,9,20,9,15,0,0,0,30,16,24,,,,,,,TABLE_6.5
+Patel Road,Road,,,3,7,4,22,23,23,0,0,0,25,30,27,,,,,,,TABLE_6.5
+Patpar Ganj Road,Road,,,2,2,1,8,6,8,0,0,0,10,8,9,,,,,,,TABLE_6.5
+Press Enclave Marg,Road,,,0,0,2,4,4,6,0,0,0,4,4,8,,,,,,,TABLE_6.5
+Prithvi Raj Road,Road,,,2,0,1,1,0,4,0,0,0,3,0,5,,,,,,,TABLE_6.5
+Qutab Road,Road,,,1,0,2,1,0,1,0,0,0,2,0,3,,,,,,,TABLE_6.5
+Raja Ram Marg,Road,,,4,3,2,4,3,7,0,0,1,8,6,10,,,,,,,TABLE_6.5
+Rama Road,Road,,,4,1,1,6,7,3,0,0,0,10,8,4,,,,,,,TABLE_6.5
+Rani Jhansi Road,Road,,,3,0,1,7,16,12,0,0,0,10,16,13,,,,,,,TABLE_6.5
+Rao Tula Ram Marg,Road,,,2,1,2,4,10,6,0,0,1,6,11,9,,,,,,,TABLE_6.5
+Ravi Das Marg,Road,,,2,3,1,12,3,7,0,0,0,14,6,8,,,,,,,TABLE_6.5
+Ring Road,Road,,,107,85,85,269,200,192,6,2,3,382,287,280,,,,,,,TABLE_6.5
+Rithala Road,Road,,,4,3,0,4,4,1,1,0,0,9,7,1,,,,,,,TABLE_6.5
+Road No 13,Road,,,2,0,0,2,0,2,0,0,0,4,0,2,,,,,,,TABLE_6.5
+Road No 37,Road,,,1,1,2,1,1,1,0,0,0,2,2,3,,,,,,,TABLE_6.5
+Road No 40,Road,,,7,2,1,24,7,4,0,0,0,31,9,5,,,,,,,TABLE_6.5
+Road No 41,Road,,,4,5,6,14,11,10,0,0,0,18,16,16,,,,,,,TABLE_6.5
+Road No 56,Road,,,17,7,9,34,23,14,0,0,0,51,30,23,,,,,,,TABLE_6.5
+Road No 57,Road,,,11,2,4,21,12,11,2,0,1,34,14,16,,,,,,,TABLE_6.5
+Road No 66,Road,,,0,0,5,10,3,9,0,0,0,10,3,14,,,,,,,TABLE_6.5
+Rohtak Road,Road,,,51,38,46,132,100,89,3,1,1,186,139,136,,,,,,,TABLE_6.5
+Roshanara Road,Road,,,2,2,0,1,2,10,0,0,0,3,4,10,,,,,,,TABLE_6.5
+Shanti Path,Road,,,2,0,,1,2,,0,0,,3,2,,,,,,,,TABLE_6.5
+Station Road,Road,,,2,3,3,7,14,6,1,0,1,10,17,10,,,,,,,TABLE_6.5
+Todapur Road(Dps Marg),Road,,,4,5,8,13,6,8,0,0,0,17,11,16,,,,,,,TABLE_6.5
+Vikas Marg,Road,,,12,7,5,35,20,30,0,0,1,47,27,36,,,,,,,TABLE_6.5
+Viveka Nand Marg,Road,,,3,0,0,7,3,1,0,0,0,10,3,1,,,,,,,TABLE_6.5
+Wazirabad Road,Road,,,35,23,21,79,41,80,0,0,0,114,64,101,,,,,,,TABLE_6.5
+Yamuna Pushta Road,Road,,,10,8,8,20,16,15,0,0,0,30,24,23,,,,,,,TABLE_6.5
+Road No 13a,Road,,,3,3,6,15,9,17,0,0,0,18,12,23,,,,,,,TABLE_6.5
+Baba Kharak Singh Marg,Road,,,4,2,6,7,3,6,0,0,0,11,5,12,,,,,,,TABLE_6.5
+Bawana Auchandi Road,Road,,,1,1,0,0,4,2,0,0,0,1,5,2,,,,,,,TABLE_6.5
+Bijwasan Road,Road,,,5,9,9,10,10,12,0,9,0,15,19,21,,,,,,,TABLE_6.5
+Burari Road,Road,,,9,5,5,16,20,17,0,1,0,25,26,22,,,,,,,TABLE_6.5
+Chhawla Road,Road,,,0,2,0,5,3,3,0,0,0,5,5,3,,,,,,,TABLE_6.5
+DDU Marg,Road,,,1,0,1,2,1,2,0,0,0,3,1,3,,,,,,,TABLE_6.5
+Jai Singh Road,Road,,,,0,0,,0,1,0,0,0,0,0,1,,,,,,,TABLE_6.5
+Jail Road,Road,,,4,1,3,8,4,7,0,0,0,12,5,10,,,,,,,TABLE_6.5
+Jaitpur Road,Road,,,0,1,2,2,3,9,0,0,0,2,4,11,,,,,,,TABLE_6.5
+Janpath,Road,,,0,1,2,8,2,4,0,0,0,8,3,6,,,,,,,TABLE_6.5
+Kotla Road,Road,,,2,2,3,1,1,9,0,0,0,3,3,12,,,,,,,TABLE_6.5
+Lodi Road,Road,,,0,2,0,7,13,6,0,0,0,7,15,6,,,,,,,TABLE_6.5
+Maharaja Surajmal Road,Road,,,,1,0,,0,1,0,0,0,0,1,1,,,,,,,TABLE_6.5
+Pusa Road,Road,,,2,2,1,11,4,12,0,0,0,13,6,13,,,,,,,TABLE_6.5
+Pusta Road,Road,,,13,10,7,57,26,29,0,0,0,70,36,36,,,,,,,TABLE_6.5
+Qutab Garh Road,Road,,,1,4,0,1,4,4,0,0,0,2,8,4,,,,,,,TABLE_6.5
+Ramdev Marg,Road,,,2,0,1,3,2,0,0,0,0,5,2,1,,,,,,,TABLE_6.5
+Ridge Road,Road,,,1,2,3,7,2,3,0,0,0,8,4,6,,,,,,,TABLE_6.5
+Sardar Patel Marg,Road,,,1,3,3,9,3,4,1,0,0,11,6,7,,,,,,,TABLE_6.5
+SPM Marg,Road,,,6,3,-,4,3,-,0,0,-,10,6,-,,,,,,,TABLE_6.5
+Crash Prone Zone,Crash_Prone_Zone,,,,,Fatal Crashes,,,Simple Crashes,,,,,,Total Crashes,,,,,,,TABLE_6.28
+Bhalswa Chowk,Crash_Prone_Zone,,,,,8,,,3,,,,,,11,,,,,,,TABLE_6.28
+Mukarba Chowk,Crash_Prone_Zone,,,,,7,,,11,,,,,,18,,,,,,,TABLE_6.28
+Punjabi Bagh Chowk,Crash_Prone_Zone,,,,,7,,,11,,,,,,18,,,,,,,TABLE_6.28
+Zakhira Flyover,Crash_Prone_Zone,,,,,6,,,10,,,,,,16,,,,,,,TABLE_6.28
+Libaspur Bus Stand,Crash_Prone_Zone,,,,,6,,,10,,,,,,16,,,,,,,TABLE_6.28
+Mukundpur Chowk,Crash_Prone_Zone,,,,,6,,,7,,,,,,13,,,,,,,TABLE_6.28
+Moti Bagh Flyover,Crash_Prone_Zone,,,,,5,,,7,,,,,,12,,,,,,,TABLE_6.28
+Nangli Poona,Crash_Prone_Zone,,,,,5,,,4,,,,,,9,,,,,,,TABLE_6.28
+Siraspur,Crash_Prone_Zone,,,,,5,,,2,,,,,,7,,,,,,,TABLE_6.28
+Shastri Park/ IT Park,Crash_Prone_Zone,,,,,4,,,21,,,,,,25,,,,,,,TABLE_6.28
+Majnu Ka Tila,Crash_Prone_Zone,,,,,4,,,10,,,,,,14,,,,,,,TABLE_6.28
+Metro Station Haider Pur,Crash_Prone_Zone,,,,,4,,,9,,,,,,13,,,,,,,TABLE_6.28
+Swaroop Nagar,Crash_Prone_Zone,,,,,4,,,9,,,,,,13,,,,,,,TABLE_6.28
+Seelampur T Point,Crash_Prone_Zone,,,,,4,,,8,,,,,,12,,,,,,,TABLE_6.28
+Rama Road Crossing,Crash_Prone_Zone,,,,,4,,,6,,,,,,10,,,,,,,TABLE_6.28
+Metro Station Madipur,Crash_Prone_Zone,,,,,4,,,5,,,,,,9,,,,,,,TABLE_6.28
+RML Hospital,Crash_Prone_Zone,,,,,4,,,5,,,,,,9,,,,,,,TABLE_6.28
+Wazirabad,Crash_Prone_Zone,,,,,4,,,5,,,,,,9,,,,,,,TABLE_6.28
+Maya Puri Chowk,Crash_Prone_Zone,,,,,4,,,5,,,,,,9,,,,,,,TABLE_6.28
+Mangolpuri Flyover,Crash_Prone_Zone,,,,,4,,,5,,,,,,9,,,,,,,TABLE_6.28
+Karkari More,Crash_Prone_Zone,,,,,4,,,5,,,,,,9,,,,,,,TABLE_6.28
+Jharera Village,Crash_Prone_Zone,,,,,4,,,4,,,,,,8,,,,,,,TABLE_6.28
+Haider Pur,Crash_Prone_Zone,,,,,4,,,4,,,,,,8,,,,,,,TABLE_6.28
+Burari Chowk,Crash_Prone_Zone,,,,,4,,,4,,,,,,8,,,,,,,TABLE_6.28
+Gagan Cinema,Crash_Prone_Zone,,,,,4,,,4,,,,,,8,,,,,,,TABLE_6.28
+Okhla More,Crash_Prone_Zone,,,,,4,,,3,,,,,,7,,,,,,,TABLE_6.28
+Telco Gazipur,Crash_Prone_Zone,,,,,4,,,3,,,,,,7,,,,,,,TABLE_6.28
+Khajoori Khas Pusta Road,Crash_Prone_Zone,,,,,4,,,2,,,,,,6,,,,,,,TABLE_6.28
+Near HaldiRam Wazirpur,Crash_Prone_Zone,,,,,4,,,2,,,,,,6,,,,,,,TABLE_6.28
+C-1 Janakpuri,Crash_Prone_Zone,,,,,4,,,2,,,,,,6,,,,,,,TABLE_6.28
+Rajdhani Park,Crash_Prone_Zone,,,,,4,,,1,,,,,,5,,,,,,,TABLE_6.28
+Round About Seemapuri,Crash_Prone_Zone,,,,,4,,,0,,,,,,4,,,,,,,TABLE_6.28
+GTK Depot Jahangirpuri,Crash_Prone_Zone,,,,,4,,,0,,,,,,4,,,,,,,TABLE_6.28
+Gandhi Vihar Bus Stand,Crash_Prone_Zone,,,,,3,,,23,,,,,,26,,,,,,,TABLE_6.28
+Mool Chand,Crash_Prone_Zone,,,,,3,,,14,,,,,,17,,,,,,,TABLE_6.28
+Power House Mahavir Enclave,Crash_Prone_Zone,,,,,3,,,10,,,,,,13,,,,,,,TABLE_6.28
+Under Pass Gajipur,Crash_Prone_Zone,,,,,3,,,10,,,,,,13,,,,,,,TABLE_6.28
+Peeragarhi Chowk,Crash_Prone_Zone,,,,,3,,,10,,,,,,13,,,,,,,TABLE_6.28
+Akshardham Mandir,Crash_Prone_Zone,,,,,3,,,9,,,,,,12,,,,,,,TABLE_6.28
+Dhaula Kuan,Crash_Prone_Zone,,,,,3,,,8,,,,,,11,,,,,,,TABLE_6.28
+Rajouri Garden,Crash_Prone_Zone,,,,,3,,,8,,,,,,11,,,,,,,TABLE_6.28
+Loni Road Crossing,Crash_Prone_Zone,,,,,3,,,8,,,,,,11,,,,,,,TABLE_6.28
+Railway Under Pulprahladpur,Crash_Prone_Zone,,,,,3,,,7,,,,,,10,,,,,,,TABLE_6.28
+Vijay Ghat,Crash_Prone_Zone,,,,,3,,,7,,,,,,10,,,,,,,TABLE_6.28
+Toll Plaza Badarpur,Crash_Prone_Zone,,,,,3,,,7,,,,,,10,,,,,,,TABLE_6.28
+Anand Vihar ISBT,Crash_Prone_Zone,,,,,3,,,7,,,,,,10,,,,,,,TABLE_6.28
+Naraina,Crash_Prone_Zone,,,,,3,,,7,,,,,,10,,,,,,,TABLE_6.28
+VIP College Pitampura,Crash_Prone_Zone,,,,,3,,,6,,,,,,9,,,,,,,TABLE_6.28
+Raja Harishchander Hospital,Crash_Prone_Zone,,,,,3,,,6,,,,,,9,,,,,,,TABLE_6.28
+Mundka Metro Station,Crash_Prone_Zone,,,,,3,,,6,,,,,,9,,,,,,,TABLE_6.28
+Nigam Bodh Ghat,Crash_Prone_Zone,,,,,3,,,5,,,,,,8,,,,,,,TABLE_6.28
+Flyover Raja Ram Marg,Crash_Prone_Zone,,,,,3,,,5,,,,,,8,,,,,,,TABLE_6.28
+Subhash Nagar Metro Station,Crash_Prone_Zone,,,,,3,,,4,,,,,,7,,,,,,,TABLE_6.28
+Lajpat Rai Market(Lal Qila),Crash_Prone_Zone,,,,,3,,,4,,,,,,7,,,,,,,TABLE_6.28
+Shahdara Flyover,Crash_Prone_Zone,,,,,3,,,4,,,,,,7,,,,,,,TABLE_6.28
+Modi Mill Flyover,Crash_Prone_Zone,,,,,3,,,4,,,,,,7,,,,,,,TABLE_6.28
+Prem Bari Pull,Crash_Prone_Zone,,,,,3,,,4,,,,,,7,,,,,,,TABLE_6.28
+Jahangir Puri Bus Stand Outer Ring Road,Crash_Prone_Zone,,,,,3,,,4,,,,,,7,,,,,,,TABLE_6.28
+Chirag Delhi Flyover,Crash_Prone_Zone,,,,,3,,,4,,,,,,7,,,,,,,TABLE_6.28
+Shastri Park Metro Station,Crash_Prone_Zone,,,,,3,,,4,,,,,,7,,,,,,,TABLE_6.28
+Khampur Village,Crash_Prone_Zone,,,,,3,,,3,,,,,,6,,,,,,,TABLE_6.28
+Azadpur Sabzi Mandi,Crash_Prone_Zone,,,,,3,,,3,,,,,,6,,,,,,,TABLE_6.28
+Keshopur T Point,Crash_Prone_Zone,,,,,3,,,3,,,,,,6,,,,,,,TABLE_6.28
+Tughlakabad Metro Station,Crash_Prone_Zone,,,,,3,,,3,,,,,,6,,,,,,,TABLE_6.28
+Near Manish Furniture Mkt Nangloi Road,Crash_Prone_Zone,,,,,3,,,3,,,,,,6,,,,,,,TABLE_6.28
+Jasola Vihar,Crash_Prone_Zone,,,,,3,,,3,,,,,,6,,,,,,,TABLE_6.28
+ESI Hospital Ring Road,Crash_Prone_Zone,,,,,3,,,2,,,,,,5,,,,,,,TABLE_6.28
+Khichripur,Crash_Prone_Zone,,,,,3,,,2,,,,,,5,,,,,,,TABLE_6.28
+Metro Station Sadar Bazar,Crash_Prone_Zone,,,,,3,,,2,,,,,,5,,,,,,,TABLE_6.28
+Santom Hospital Outer Ring Road,Crash_Prone_Zone,,,,,3,,,2,,,,,,5,,,,,,,TABLE_6.28
+Power House Pitampura,Crash_Prone_Zone,,,,,3,,,1,,,,,,4,,,,,,,TABLE_6.28
+Panchsheel Flyover,Crash_Prone_Zone,,,,,3,,,1,,,,,,4,,,,,,,TABLE_6.28
+Nizamuddin Yamuna Bridge,Crash_Prone_Zone,,,,,3,,,0,,,,,,3,,,,,,,TABLE_6.28
+Dilshad Garden,Crash_Prone_Zone,,,,,3,,,0,,,,,,3,,,,,,,TABLE_6.28
+Gokalpuri,Crash_Prone_Zone,,,,,2,,,12,,,,,,14,,,,,,,TABLE_6.28
+Hyatt Hotel,Crash_Prone_Zone,,,,,2,,,9,,,,,,11,,,,,,,TABLE_6.28
+Hanuman Mandir Yamuna Bazar,Crash_Prone_Zone,,,,,2,,,8,,,,,,10,,,,,,,TABLE_6.28
+Tees Hazari Red Light,Crash_Prone_Zone,,,,,2,,,8,,,,,,10,,,,,,,TABLE_6.28
+Murga Mandi Flyover,Crash_Prone_Zone,,,,,2,,,8,,,,,,10,,,,,,,TABLE_6.28
+Sarita Vihar Flyover,Crash_Prone_Zone,,,,,2,,,8,,,,,,10,,,,,,,TABLE_6.28
+Durgapuri Chowk,Crash_Prone_Zone,,,,,2,,,8,,,,,,10,,,,,,,TABLE_6.28
+Mahipalpur Flyover,Crash_Prone_Zone,,,,,2,,,8,,,,,,10,,,,,,,TABLE_6.28
+DTC Bus Depot Nand Nagri,Crash_Prone_Zone,,,,,1,,,15,,,,,,16,,,,,,,TABLE_6.28
+Harnam Palace Ashok Nagar,Crash_Prone_Zone,,,,,1,,,12,,,,,,13,,,,,,,TABLE_6.28
+"Sec-1,2 Red Light Dwarka",Crash_Prone_Zone,,,,,1,,,11,,,,,,12,,,,,,,TABLE_6.28
+Nirankari Colony,Crash_Prone_Zone,,,,,1,,,9,,,,,,10,,,,,,,TABLE_6.28
+Khajoori Chowk,Crash_Prone_Zone,,,,,0,,,12,,,,,,12,,,,,,,TABLE_6.28
+Rohtak Road ( NH-10),National_Highway,,,51,38,46,132,100,89,3,1,1,186,139,136,,,,,,,TABLE_6.6
+Mathura Road NH-2,National_Highway,,,38,15,14,79,60,66,3,0,0,120,75,80,,,,,,,TABLE_6.6
+NH-8,National_Highway,,,20,27,26,48,61,56,0,0,3,68,88,85,,,,,,,TABLE_6.6
+NH- 24,National_Highway,,,26,17,15,29,26,32,0,0,0,55,43,47,,,,,,,TABLE_6.6
+G.T.Karn al Road NH-1,National_Highway,,,56,46,44,94,72,90,1,1,0,151,119,134,,,,,,,TABLE_6.6
+G.T.Road NH-58,National_Highway,,,27,14,21,65,40,57,1,0,0,93,54,78,,,,,,,TABLE_6.6
+Bhalswa Chowk,Black_Spot,,BRD,,,8,,,3,,,,,,11,8,3,,,,,BLACK_SPOT_PROFILE
+Punjabi Bagh Chowk,Black_Spot,,PBC,,,7,,,11,,,,,,18,7,16,,,,,BLACK_SPOT_PROFILE
+Mukarba Chowk,Black_Spot,,BRD,,,7,,,11,,,,,,18,7,15,,,,,BLACK_SPOT_PROFILE
+Zakhira Flyover,Black_Spot,,PNC,,,6,,,10,,,,,,16,6,16,,,,,BLACK_SPOT_PROFILE
+Libaspur Bus Stand,Black_Spot,,BRD,,,6,,,10,,,,,,16,6,14,,,,,BLACK_SPOT_PROFILE
+Mukundpur Chowk,Black_Spot,,BRD,,,6,,,7,,,,,,13,6,12,,,,,BLACK_SPOT_PROFILE
+Moti Bagh Flyover,Black_Spot,,RKP,,,5,,,7,,,,,,12,5,15,,,,,BLACK_SPOT_PROFILE
+Nangli Poona,Black_Spot,,BRD,,,5,,,4,,,,,,9,5,5,,,,,BLACK_SPOT_PROFILE
+Siraspur,Black_Spot,,BRD,,,5,,,2,,,,,,7,5,3,,,,,BLACK_SPOT_PROFILE
+Shastri Park/IT Park,Black_Spot,,SHD,,,4,,,21,,,,,,25,4,22,,,,,BLACK_SPOT_PROFILE

@@ -1,0 +1,118 @@
+Sl_No,Accident_Prone_Zone,Simple_Crashes,Fatal_Crashes,Total_Accidents
+1,Mukarba Chowk,11,12,23
+2,Khampur Village,9,10,19
+3,Dhaula Kuan,9,8,17
+4,Maya Puri Chowk,8,8,16
+5,Gandhi Vihar Bus Stand,18,7,25
+6,Bhalswa Chowk,14,7,21
+7,Peeragarhi Chowk,9,7,16
+8,Punjabi Bagh Chowk,8,7,15
+9,Britannia Chowk,7,7,14
+10,Ashram Chowk,7,7,14
+11,Akshardham Mandir,17,6,23
+12,Adarsh Nagar,4,6,10
+13,Mukundpur Chowk,16,5,21
+14,Nirankari Colony,11,5,16
+15,Loni Road Crossing,11,5,16
+16,Murga Mandi Flyover,8,5,13
+17,Shalimar Bagh,8,5,13
+18,Rama Road Crossing,7,5,12
+19,Kalindi Kunj,7,5,12
+20,Monestry Ring Road,6,5,11
+21,Nangli Poona,6,5,11
+22,Rajoukari Flyover,6,5,11
+23,Metro Station Dilshad Garden,6,5,11
+24,Wazir Pur Depot,6,5,11
+25,Metro Station Madipur,5,5,10
+26,Gb Pant Hospital,4,5,9
+27,Under Pass Gajipur,3,5,8
+28,SGT Nagar,2,5,7
+29,Okhla More,2,5,7
+30,Shanti Van,16,4,20
+31,ITO/I P Flyover,15,4,19
+32,AIIMS,13,4,17
+33,Zakhira Flyover,9,4,13
+34,Azadpur Bus Terminal,8,4,12
+35,Mahipalpur Flyover,7,4,11
+36,Toll Plaza Badarpur,6,4,10
+37,Prem Bari Pull,5,4,9
+38,Libaspur Bus Stand,5,4,9
+39,Telco Gajipur,4,4,8
+40,Jahangir Puri Bus Stand Outer Ring Road,4,4,8
+41,CNG Pump/Jain Mandir Nh-1,3,4,7
+42,C-1 Janakpuri,3,4,7
+43,Gurudwara Raja Garden,3,4,7
+44,DC Office,3,4,7
+45,Shamshan Ghat Punjabi Bagh,2,4,6
+46,Madhuban Chowk,2,4,6
+47,Shani Mandir Nh-1,2,4,6
+48,Red Light Rajiv Gandhi Hospital,2,4,6
+49,Lajwanti Chowk,1,4,5
+50,Singhu Border,1,4,5
+51,ICD Tuglakabad,0,4,4
+52,Shastri Park/IT Park,22,3,25
+53,Azadpur Sabzi Mandi,11,3,14
+54,Govindpuri Metro Station,10,3,13
+55,RML Hospital,10,3,13
+56,Kakrola Dwarka More,9,3,12
+57,Azad Pur Chowk,9,3,12
+58,Delhi Gate,8,3,11
+59,Pani Ki Tanki Nangloi,8,3,11
+60,Shakarpur Chungi,7,3,10
+61,Wazirabad,6,3,9
+62,Gokalpuri,6,3,9
+63,Dharampura Red Light Seelampur,6,3,9
+64,Shiv Murti Nh-8,5,3,8
+65,Sanjay T-Point,5,3,8
+66,Hyaat Hotel,5,3,8
+67,Bakoli Bus Stand,5,3,8
+68,IP DTC Depot,4,3,7
+69,Kalkaji Mandir,4,3,7
+70,Delhi Public Lib/Sriniwas Puri/Gupta Market,4,3,7
+71,Shyam Lal College,4,3,7
+72,Hanuman Mandir Yamuna Bazar,4,3,7
+73,Bhajanpura Chowk,4,3,7
+74,Rajdhani Park,4,3,7
+75,Gazipur Village Near Petrol Pump,4,3,7
+76,Barwala Village Bawana Road,3,3,6
+77,Metro Station East Punjabi Bagh,3,3,6
+78,Round About Okhla Estate,3,3,6
+79,East Vinod Nagar/Mv Ii Red Light,3,3,6
+80,Sarai Kale Khan,3,3,6
+81,Janak Cinema,3,3,6
+82,IG Indoor Stadium,3,3,6
+83,VIP College Pitampura,3,3,6
+84,West Enclave Red Light,3,3,6
+85,Gurudwara Bangla Sahib,2,3,5
+86,Sai Baba Mandir Nh-1,2,3,5
+87,Lajpat Rai Market (Lal Qila),2,3,5
+88,Model Town IIIrd,2,3,5
+89,Subhash Nagar Metro Station,2,3,5
+90,Lado Sarai Crossing,2,3,5
+91,Shamshan Ghat Geeta Colony,2,3,5
+92,Budhpur Ganda Nala/Hanuman Mandir,1,3,4
+93,Near Maurya Sheraton Hotel,1,3,4
+94,Safdarjung Hospital,1,3,4
+95,Mool Chand,12,2,14
+96,Swaroop Nagar,11,2,13
+97,Khajoori Chowk,10,2,12
+98,Gagan Cinema,10,2,12
+99,Kings Way Camp Chowk,9,2,11
+100,Shyamgiri Mandir Shastri Park,9,2,11
+101,Burari Chowk,9,2,11
+102,NSIT Dwarka,9,2,11
+103,Mundka Metro Station,8,2,10
+104,Rajouri Garden,8,2,10
+105,Rajapuri Red Light,8,2,10
+106,Jahangir Puri Metro Station GTK Road,14,1,15
+107,Moti Bagh Flyover,10,1,11
+108,Moti Nagar Flyover,10,1,11
+109,Nehru Palace,10,1,11
+110,Chirag Delhi Flyover,10,1,11
+111,Khichadi Pur,10,1,11
+112,Kashmiri Gate Chowk Boulevard Road,10,1,11
+113,Durgapuri Chowk,9,1,10
+114,Sarita Vihar Metro Station,9,1,10
+115,Keshopur T Point,9,1,10
+116,Modi Mill Flyover,9,1,10
+117,Sec 10 Red Light Dwarka,12,0,12

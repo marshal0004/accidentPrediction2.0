@@ -1,0 +1,86 @@
+Black_Spot,Category,Item,Fatal,Total
+Mukarba Chowk,Offending_Vehicle,Car,2,
+Mukarba Chowk,Offending_Vehicle,2 Wheelers,1,
+Mukarba Chowk,Offending_Vehicle,3 Wheelers,1,
+Mukarba Chowk,Victim,2 Wheelers,9,
+Mukarba Chowk,Victim,3 Wheelers,0,
+Mukarba Chowk,Day_Night,Day,7,12
+Mukarba Chowk,Day_Night,Night,5,11
+Khampur Village,Offending_Vehicle,Un-Known Vehicle,6,11
+Khampur Village,Offending_Vehicle,HTV/Goods,2,3
+Khampur Village,Victim,Scooter/M.Cycle,4,6
+Khampur Village,Victim,Pedestrian,3,8
+Khampur Village,Day_Night,Night,6,9
+Khampur Village,Day_Night,Day,4,10
+Bhalswa Chowk,Offending_Vehicle,Car Pvt,1,2
+Bhalswa Chowk,Offending_Vehicle,HTV/Goods,1,2
+Bhalswa Chowk,Offending_Vehicle,Scooter/M. Cycle,1,2
+Bhalswa Chowk,Offending_Vehicle,Tempo,1,1
+Bhalswa Chowk,Offending_Vehicle,Unknown vehicle,3,11
+Bhalswa Chowk,Victim,E Rickshaw,1,3
+Bhalswa Chowk,Victim,Pedestrian,2,8
+Bhalswa Chowk,Victim,Scooter/M.Cycle,4,10
+Bhalswa Chowk,Day_Night,Day,6,16
+Bhalswa Chowk,Day_Night,Night,1,5
+Gandhi Vihar Bus Stand,Offending_Vehicle,Delivery Van,1,1
+Gandhi Vihar Bus Stand,Offending_Vehicle,HTV/Goods,1,1
+Gandhi Vihar Bus Stand,Offending_Vehicle,Tractor,1,1
+Gandhi Vihar Bus Stand,Offending_Vehicle,Unknown vehicle.,4,12
+Gandhi Vihar Bus Stand,Victim,Pedestrian,1,4
+Gandhi Vihar Bus Stand,Victim,Scooter/M.Cycle,5,17
+Gandhi Vihar Bus Stand,Victim,TSR,1,2
+Gandhi Vihar Bus Stand,Day_Night,Day,2,13
+Gandhi Vihar Bus Stand,Day_Night,Night,5,12
+Dhaula Kuan,Offending_Vehicle,Bus Other,1,2
+Dhaula Kuan,Offending_Vehicle,Car Pvt,1,2
+Dhaula Kuan,Offending_Vehicle,HTV/Goods,1,3
+Dhaula Kuan,Offending_Vehicle,Unknown vehicle,5,7
+Dhaula Kuan,Victim,Pedestrian,3,5
+Dhaula Kuan,Victim,Scooter/M.Cycle,4,7
+Dhaula Kuan,Day_Night,Day,5,8
+Dhaula Kuan,Day_Night,Night,3,9
+Mayapuri Chowk,Offending_Vehicle,Car Pvt,1,2
+Mayapuri Chowk,Offending_Vehicle,HTV/Goods,2,4
+Mayapuri Chowk,Offending_Vehicle,Scooter/M. Cycle,1,2
+Mayapuri Chowk,Offending_Vehicle,Unknown vehicle,4,6
+Mayapuri Chowk,Victim,Pedestrian,2,5
+Mayapuri Chowk,Victim,Scooter/M.Cycle,5,9
+Mayapuri Chowk,Victim,Tempo,1,1
+Mayapuri Chowk,Day_Night,Day,2,5
+Mayapuri Chowk,Day_Night,Night,6,11
+Ashram Chowk,Offending_Vehicle,HTV/Goods,2,2
+Ashram Chowk,Offending_Vehicle,Scooter/M. Cycle,1,2
+Ashram Chowk,Offending_Vehicle,Tempo,1,1
+Ashram Chowk,Offending_Vehicle,Trailer/Container,1,1
+Ashram Chowk,Offending_Vehicle,Unknown vehicle,2,7
+Ashram Chowk,Victim,Pedestrian,2,5
+Ashram Chowk,Victim,Scooter/M.Cycle,4,7
+Ashram Chowk,Victim,Self,1,1
+Ashram Chowk,Day_Night,Day,1,4
+Ashram Chowk,Day_Night,Night,6,10
+Punjabi Bagh Chowk,Offending_Vehicle,Bus DTC,1,1
+Punjabi Bagh Chowk,Offending_Vehicle,HTV/Goods,1,3
+Punjabi Bagh Chowk,Offending_Vehicle,Scooter/M. Cycle,1,1
+Punjabi Bagh Chowk,Offending_Vehicle,TSR,1,1
+Punjabi Bagh Chowk,Victim,Delivery Van,1,1
+Punjabi Bagh Chowk,Victim,Pedestrian,3,4
+Punjabi Bagh Chowk,Victim,Scooter/M.Cycle,2,8
+Punjabi Bagh Chowk,Day_Night,Day,1,2
+Punjabi Bagh Chowk,Day_Night,Night,6,13
+Peera Garhi Chowk,Offending_Vehicle,Crane,1,1
+Peera Garhi Chowk,Offending_Vehicle,HTV/Goods,2,3
+Peera Garhi Chowk,Offending_Vehicle,Scooter/M. Cycle,1,2
+Peera Garhi Chowk,Offending_Vehicle,Trailer/Container,1,1
+Peera Garhi Chowk,Offending_Vehicle,Unknown vehicle,2,8
+Peera Garhi Chowk,Victim,Pedestrian,4,8
+Peera Garhi Chowk,Victim,Scooter/M.Cycle,2,5
+Peera Garhi Chowk,Victim,Self,1,1
+Peera Garhi Chowk,Day_Night,Day,4,11
+Peera Garhi Chowk,Day_Night,Night,3,5
+Britannia Chowk,Offending_Vehicle,Car Pvt,1,3
+Britannia Chowk,Offending_Vehicle,HTV/Goods,1,2
+Britannia Chowk,Offending_Vehicle,Unknown vehicle,5,7
+Britannia Chowk,Victim,Pedestrian,5,9
+Britannia Chowk,Victim,Scooter/M. Cycle,2,2
+Britannia Chowk,Day_Night,Day,3,7
+Britannia Chowk,Day_Night,Night,4,7

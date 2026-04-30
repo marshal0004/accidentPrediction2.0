@@ -1,0 +1,499 @@
+Location,Location_Type,Fatal_Crashes,Injury_Crashes,NonInjury_Crashes,Total_Crashes,Persons_Killed,District,Road_Name,Year,Category,Time_Period,Victim_Type
+Aman Vihar,Traffic Circle,10,24,0,34,10,,,2022,Traffic Circle,All,All
+Ashok Vihar,Traffic Circle,16,57,2,75,16,,,2022,Traffic Circle,All,All
+Badarpur,Traffic Circle,38,76,0,114,38,,,2022,Traffic Circle,All,All
+Bara Khamba Road,Traffic Circle,4,10,0,14,4,,,2022,Traffic Circle,All,All
+Bawana,Traffic Circle,40,109,1,150,40,,,2022,Traffic Circle,All,All
+Begum Pur,Traffic Circle,19,61,0,80,19,,,2022,Traffic Circle,All,All
+Bhajan Pura,Traffic Circle,7,35,0,42,7,,,2022,Traffic Circle,All,All
+Chanakya Puri,Traffic Circle,13,29,1,43,13,,,2022,Traffic Circle,All,All
+Chhawla,Traffic Circle,20,39,3,62,20,,,2022,Traffic Circle,All,All
+Chitranjan Park,Traffic Circle,10,56,0,66,10,,,2022,Traffic Circle,All,All
+Civil Lines,Traffic Circle,20,71,2,93,20,,,2022,Traffic Circle,All,All
+Dabri,Traffic Circle,12,55,3,70,12,,,2022,Traffic Circle,All,All
+Darya Ganj,Traffic Circle,13,27,0,40,13,,,2022,Traffic Circle,All,All
+Defence Colony,Traffic Circle,12,51,3,66,12,,,2022,Traffic Circle,All,All
+Delhi Cantt,Traffic Circle,42,84,5,131,42,,,2022,Traffic Circle,All,All
+Dwarka,Traffic Circle,24,171,3,198,24,,,2022,Traffic Circle,All,All
+Gandhi Nagar,Traffic Circle,14,34,1,49,14,,,2022,Traffic Circle,All,All
+Gokul Puri,Traffic Circle,16,62,1,79,16,,,2022,Traffic Circle,All,All
+Hauz Khas,Traffic Circle,23,68,1,92,23,,,2022,Traffic Circle,All,All
+IGI Airport,Traffic Circle,8,22,0,30,8,,,2022,Traffic Circle,All,All
+Jahangir Puri,Traffic Circle,35,65,0,100,35,,,2022,Traffic Circle,All,All
+Kalkaji,Traffic Circle,10,70,6,86,10,,,2022,Traffic Circle,All,All
+Kalyan Puri,Traffic Circle,15,41,1,57,15,,,2022,Traffic Circle,All,All
+Kamla Market,Traffic Circle,18,51,0,69,18,,,2022,Traffic Circle,All,All
+Karol Bagh,Traffic Circle,7,24,1,32,7,,,2022,Traffic Circle,All,All
+Khajuri Khas,Traffic Circle,11,62,0,73,11,,,2022,Traffic Circle,All,All
+Kotwali,Traffic Circle,24,69,0,93,24,,,2022,Traffic Circle,All,All
+Lajpat Nagar,Traffic Circle,32,88,7,127,32,,,2022,Traffic Circle,All,All
+Madhu Vihar,Traffic Circle,37,79,2,118,37,,,2022,Traffic Circle,All,All
+Mangol Puri,Traffic Circle,24,47,1,72,24,,,2022,Traffic Circle,All,All
+Maya Puri,Traffic Circle,27,48,2,77,27,,,2022,Traffic Circle,All,All
+Mayur Vihar,Traffic Circle,25,69,2,96,25,,,2022,Traffic Circle,All,All
+Mehrauli,Traffic Circle,29,76,0,105,29,,,2022,Traffic Circle,All,All
+Model Town,Traffic Circle,13,48,1,62,13,,,2022,Traffic Circle,All,All
+Najafgarh,Traffic Circle,27,84,2,113,27,,,2022,Traffic Circle,All,All
+Nand Nagri,Traffic Circle,13,64,1,78,13,,,2022,Traffic Circle,All,All
+Nangloi,Traffic Circle,43,107,1,151,43,,,2022,Traffic Circle,All,All
+Narela,Traffic Circle,38,102,1,141,38,,,2022,Traffic Circle,All,All
+New Friends Colony,Traffic Circle,10,54,4,68,10,,,2022,Traffic Circle,All,All
+Pahar Ganj,Traffic Circle,16,42,0,58,16,,,2022,Traffic Circle,All,All
+Parliament House,Traffic Circle,5,14,0,19,5,,,2022,Traffic Circle,All,All
+Parliament Street,Traffic Circle,15,54,1,70,15,,,2022,Traffic Circle,All,All
+Prashant Vihar,Traffic Circle,16,59,2,77,16,,,2022,Traffic Circle,All,All
+Paschim Vihar,Traffic Circle,41,92,2,135,41,,,2022,Traffic Circle,All,All
+Patel Nagar,Traffic Circle,5,39,0,44,5,,,2022,Traffic Circle,All,All
+Preet Vihar,Traffic Circle,12,49,0,61,12,,,2022,Traffic Circle,All,All
+Punjabi Bagh,Traffic Circle,51,107,0,158,51,,,2022,Traffic Circle,All,All
+Rajouri Garden,Traffic Circle,33,99,0,132,33,,,2022,Traffic Circle,All,All
+Rohini,Traffic Circle,9,45,0,54,9,,,2022,Traffic Circle,All,All
+Sadar Bazar,Traffic Circle,7,22,0,29,7,,,2022,Traffic Circle,All,All
+Safdarjung Enclave,Traffic Circle,21,63,6,90,21,,,2022,Traffic Circle,All,All
+Samaipur Badli,Traffic Circle,69,89,0,158,69,,,2022,Traffic Circle,All,All
+Sangam Vihar,Traffic Circle,6,33,0,39,6,,,2022,Traffic Circle,All,All
+Sarai Rohilla,Traffic Circle,8,35,0,43,8,,,2022,Traffic Circle,All,All
+Sarita Vihar,Traffic Circle,24,83,3,110,24,,,2022,Traffic Circle,All,All
+Seelampur,Traffic Circle,20,92,4,116,20,,,2022,Traffic Circle,All,All
+Seemapuri,Traffic Circle,15,49,2,66,15,,,2022,Traffic Circle,All,All
+Shahdara,Traffic Circle,8,16,0,24,8,,,2022,Traffic Circle,All,All
+Shalimar Bagh,Traffic Circle,25,92,0,117,25,,,2022,Traffic Circle,All,All
+Subhash Place,Traffic Circle,25,50,1,76,25,,,2022,Traffic Circle,All,All
+Sultan Puri,Traffic Circle,11,22,0,33,11,,,2022,Traffic Circle,All,All
+Swaroop Nagar,Traffic Circle,25,45,1,71,25,,,2022,Traffic Circle,All,All
+Tilak Marg,Traffic Circle,11,23,0,34,11,,,2022,Traffic Circle,All,All
+Tilak Nagar,Traffic Circle,25,82,2,109,25,,,2022,Traffic Circle,All,All
+Timarpur,Traffic Circle,39,111,1,151,39,,,2022,Traffic Circle,All,All
+Tughlak Road,Traffic Circle,7,25,2,34,7,,,2022,Traffic Circle,All,All
+Vasant Kunj,Traffic Circle,45,106,1,152,45,,,2022,Traffic Circle,All,All
+Vasant Vihar,Traffic Circle,15,56,4,75,15,,,2022,Traffic Circle,All,All
+Vivek Vihar,Traffic Circle,20,49,2,71,20,,,2022,Traffic Circle,All,All
+Africa Avenue,Road,0,7,0,3,0,,Africa Avenue,2022,Road,All,All
+Alipur Road,Road,1,10,0,,1,,Alipur Road,2022,Road,All,All
+Anand Mai Marg,Road,8,32,2,20,8,,Anand Mai Marg,2022,Road,All,All
+Aruna Asaf Ali Marg,Road,0,6,0,4,0,,Aruna Asaf Ali Marg,2022,Road,All,All
+Asaf Ali Road,Road,1,1,0,2,1,,Asaf Ali Road,2022,Road,All,All
+August Kranti Marg,Road,0,2,0,1,0,,August Kranti Marg,2022,Road,All,All
+Aurobindo Marg,Road,6,17,,,6,,Aurobindo Marg,2022,Road,All,All
+Bahadur Shah Zr Marg,Road,1,6,0,4,1,,Bahadur Shah Zr Marg,2022,Road,All,All
+Bawana Road,Road,28,50,1,,28,,Bawana Road,2022,Road,All,All
+Bhati Mine Marg,Road,0,0,0,,0,,Bhati Mine Marg,2022,Road,All,All
+Boulevard Road,Road,1,8,0,9,1,,Boulevard Road,2022,Road,All,All
+Captain Gaur Marg,Road,1,3,0,2,1,,Captain Gaur Marg,2022,Road,All,All
+Chhatarpur Road,Road,0,6,0,3,0,,Chhatarpur Road,2022,Road,All,All
+Dhansa Road,Road,8,7,2,8,8,,Dhansa Road,2022,Road,All,All
+Desh Bandu Gupta Road,Road,10,16,0,14,10,,Desh Bandu Gupta Road,2022,Road,All,All
+Dr. Ambedkar Road,Road,0,0,0,2,0,,Dr. Ambedkar Road,2022,Road,All,All
+DSIDC Narela Road,Road,1,7,0,2,1,,DSIDC Narela Road,2022,Road,All,All
+Dwarka Road,Road,,,,0,,,Dwarka Road,2022,Road,All,All
+Faiz Road,Road,1,1,0,3,1,,Faiz Road,2022,Road,All,All
+Ghuman Hera Marg,Road,1,0,0,1,1,,Ghuman Hera Marg,2022,Road,All,All
+Grand Trunk Road,Road,25,71,2,54,25,,Grand Trunk Road,2022,Road,All,All
+GTK Road,Road,65,117,1,119,65,,GTK Road,2022,Road,All,All
+Gurgaon Road,Road,0,0,0,0,0,,Gurgaon Road,2022,Road,All,All
+ISBT Road,Road,0,1,0,0,0,,ISBT Road,2022,Road,All,All
+Jawahar Lal Nehru Road,Road,6,11,0,5,6,,Jawahar Lal Nehru Road,2022,Road,All,All
+Jharoda Road,Road,7,13,0,10,7,,Jharoda Road,2022,Road,All,All
+Kanjhawala Road,Road,10,20,0,33,10,,Kanjhawala Road,2022,Road,All,All
+Lala Lajpat Rai Path,Road,5,21,1,20,5,,Lala Lajpat Rai Path,2022,Road,All,All
+Loni Road,Road,3,14,1,7,3,,Loni Road,2022,Road,All,All
+Mahipal Pur Road,Road,3,15,1,22,3,,Mahipal Pur Road,2022,Road,All,All
+Mandoli Road,Road,1,5,0,2,1,,Mandoli Road,2022,Road,All,All
+Mayapuri Marg,Road,6,11,0,17,6,,Mayapuri Marg,2022,Road,All,All
+Mehrauli Badarpur Road,Road,20,24,1,45,20,,Mehrauli Badarpur Road,2022,Road,All,All
+Mehrauli Gurgaon Road,Road,9,24,0,33,9,,Mehrauli Gurgaon Road,2022,Road,All,All
+Najafgarh Road,Road,24,94,2,120,24,,Najafgarh Road,2022,Road,All,All
+Najafgarh Nangloi Road,Road,4,25,0,29,4,,Najafgarh Nangloi Road,2022,Road,All,All
+Nangloi Sultanpuri Road,Road,0,0,0,0,0,,Nangloi Sultanpuri Road,2022,Road,All,All
+Naraina Road,Road,1,3,0,4,1,,Naraina Road,2022,Road,All,All
+Narela Road,Road,9,20,0,29,9,,Narela Road,2022,Road,All,All
+Nelson Mandela Marg,Road,2,2,0,4,2,,Nelson Mandela Marg,2022,Road,All,All
+New Rohtak Road,Road,5,20,0,25,5,,New Rohtak Road,2022,Road,All,All
+NH-24,Road,25,68,0,93,25,,NH-24,2022,Road,All,All
+NH-8,Road,29,55,0,84,29,,NH-8,2022,Road,All,All
+Noida DND Road,Road,2,8,0,10,2,,Noida DND Road,2022,Road,All,All
+Old Gurgaon Road,Road,4,5,0,9,4,,Old Gurgaon Road,2022,Road,All,All
+Old Rohtak Road,Road,4,3,0,7,4,,Old Rohtak Road,2022,Road,All,All
+Olof Palme Marg,Road,0,0,1,1,0,,Olof Palme Marg,2022,Road,All,All
+Outer Circle C. Place,Road,4,4,0,8,4,,Outer Circle C. Place,2022,Road,All,All
+Outer Ring Road,Road,102,239,8,349,102,,Outer Ring Road,2022,Road,All,All
+Palam Dabri Road,Road,2,14,0,16,2,,Palam Dabri Road,2022,Road,All,All
+Palla Road,Road,5,8,0,13,5,,Palla Road,2022,Road,All,All
+Panchkuian Road,Road,2,2,1,5,2,,Panchkuian Road,2022,Road,All,All
+Pankha Road,Road,9,19,0,28,9,,Pankha Road,2022,Road,All,All
+Patel Road,Road,7,23,0,30,7,,Patel Road,2022,Road,All,All
+Patpar Ganj Road,Road,3,6,1,10,3,,Patpar Ganj Road,2022,Road,All,All
+Press Enclave Marg,Road,4,5,0,9,4,,Press Enclave Marg,2022,Road,All,All
+Prithvi Raj Road,Road,1,9,0,10,1,,Prithvi Raj Road,2022,Road,All,All
+Qutab Road,Road,1,2,0,3,1,,Qutab Road,2022,Road,All,All
+Raja Ram Marg,Road,4,5,0,9,4,,Raja Ram Marg,2022,Road,All,All
+Rama Road,Road,3,7,0,10,3,,Rama Road,2022,Road,All,All
+Rani Jhansi Road,Road,0,5,0,5,0,,Rani Jhansi Road,2022,Road,All,All
+Rao Tula Ram Marg,Road,3,10,2,15,3,,Rao Tula Ram Marg,2022,Road,All,All
+Ravi Das Marg,Road,1,18,0,8,1,,Ravi Das Marg,2022,Road,All,All
+Ring Road,Road,119,223,7,280,119,,Ring Road,2022,Road,All,All
+Rithala Road,Road,0,2,0,1,0,,Rithala Road,2022,Road,All,All
+Road No 13,Road,0,0,0,,0,,Road No 13,2022,Road,All,All
+Road No,Road,0,2,0,2,0,,Road No,2022,Road,All,All
+Road No 37,Road,1,3,0,3,1,,Road No 37,2022,Road,All,All
+Road No 40,Road,2,14,0,,2,,Road No 40,2022,Road,All,All
+Road No 41,Road,2,5,0,16,2,,Road No 41,2022,Road,All,All
+Road No 56,Road,15,23,0,,15,,Road No 56,2022,Road,All,All
+Road No 57,Road,6,20,1,16,6,,Road No 57,2022,Road,All,All
+Road No 66,Road,0,11,0,14,0,,Road No 66,2022,Road,All,All
+Rohtak Road,Road,63,126,2,136,63,,Rohtak Road,2022,Road,All,All
+Roshanara Road,Road,3,9,0,10,3,,Roshanara Road,2022,Road,All,All
+Shanti Path,Road,0,0,0,0,0,,Shanti Path,2022,Road,All,All
+Station Road,Road,1,7,1,10,1,,Station Road,2022,Road,All,All
+Todapur Road (Dps Marg),Road,4,14,0,16,4,,Todapur Road (Dps Marg),2022,Road,All,All
+Vikas Marg,Road,9,33,0,36,9,,Vikas Marg,2022,Road,All,All
+Viveka Nand Marg,Road,0,2,0,1,0,,Viveka Nand Marg,2022,Road,All,All
+Wazirabad Road,Road,25,78,2,101,25,,Wazirabad Road,2022,Road,All,All
+Yamuna Pushta Road,Road,12,18,0,23,12,,Yamuna Pushta Road,2022,Road,All,All
+Road No 13A,Road,6,12,0,23,6,,Road No 13A,2022,Road,All,All
+Baba Kharak Singh Marg,Road,3,10,0,12,3,,Baba Kharak Singh Marg,2022,Road,All,All
+Bawana Auchandi Road,Road,5,2,0,2,5,,Bawana Auchandi Road,2022,Road,All,All
+Bijwasan Road,Road,7,13,0,21,7,,Bijwasan Road,2022,Road,All,All
+Burari Road,Road,6,9,1,22,6,,Burari Road,2022,Road,All,All
+Chhawla Road,Road,1,3,0,3,1,,Chhawla Road,2022,Road,All,All
+DDU Marg,Road,1,5,0,3,1,,DDU Marg,2022,Road,All,All
+Jai Singh Road,Road,0,0,0,1,0,,Jai Singh Road,2022,Road,All,All
+Jail Road,Road,1,7,0,10,1,,Jail Road,2022,Road,All,All
+Jaitpur Road,Road,4,0,0,11,4,,Jaitpur Road,2022,Road,All,All
+Janpath,Road,2,5,0,6,2,,Janpath,2022,Road,All,All
+Kotla Road,Road,4,4,0,12,4,,Kotla Road,2022,Road,All,All
+Lodi Road,Road,0,2,1,6,0,,Lodi Road,2022,Road,All,All
+Maharaja Surajmal Road,Road,0,3,0,1,0,,Maharaja Surajmal Road,2022,Road,All,All
+Pusa Road,Road,2,6,0,13,2,,Pusa Road,2022,Road,All,All
+Pusta Road,Road,10,53,1,36,10,,Pusta Road,2022,Road,All,All
+Qutab Garh Road,Road,2,2,0,4,2,,Qutab Garh Road,2022,Road,All,All
+Ramdev Marg,Road,0,2,0,1,0,,Ramdev Marg,2022,Road,All,All
+Ridge Road,Road,2,2,1,6,2,,Ridge Road,2022,Road,All,All
+Sardar Patel Marg,Road,5,5,0,7,5,,Sardar Patel Marg,2022,Road,All,All
+S P M Marg,Road,4,1,0,0,4,,S P M Marg,2022,Road,All,All
+Desh Bandu Gupta Rd,Road,10,,,26,10,Unknown,Desh Bandu Gupta Rd,2022,District Road,All,All
+Ring Road,Road,9,,,32,9,Unknown,Ring Road,2022,District Road,All,All
+Jawar Lal Nehru Rd,Road,6,,,17,6,Unknown,Jawar Lal Nehru Rd,2022,District Road,All,All
+New Rohtak Road,Road,4,,,19,4,Unknown,New Rohtak Road,2022,District Road,All,All
+Vikas Marg,Road,4,,,13,4,Unknown,Vikas Marg,2022,District Road,All,All
+Patel Road,Road,2,,,14,2,Unknown,Patel Road,2022,District Road,All,All
+Pusa Road,Road,2,,,8,2,Unknown,Pusa Road,2022,District Road,All,All
+Minto Road,Road,2,,,2,2,Unknown,Minto Road,2022,District Road,All,All
+Indra Prastha Marg,Road,2,,,2,2,Unknown,Indra Prastha Marg,2022,District Road,All,All
+Bahadur Shah Zr Marg,Road,1,,,7,1,Unknown,Bahadur Shah Zr Marg,2022,District Road,All,All
+Najafgarh Road,Road,11,,,57,12,Unknown,Najafgarh Road,2022,District Road,All,All
+201 No. Road,Road,10,,,51,10,Unknown,201 No. Road,2022,District Road,All,All
+Dansha Road,Road,8,,,17,9,Unknown,Dansha Road,2022,District Road,All,All
+Jharoda Road,Road,7,,,20,7,Unknown,Jharoda Road,2022,District Road,All,All
+Palam Dabri Road,Road,1,,,15,1,Unknown,Palam Dabri Road,2022,District Road,All,All
+Najafgarh Nangloi Road,Road,1,,,7,1,Unknown,Najafgarh Nangloi Road,2022,District Road,All,All
+Chhawla Road,Road,1,,,4,1,Unknown,Chhawla Road,2022,District Road,All,All
+Dabri-Nasirpur Road,Road,1,,,3,1,Unknown,Dabri-Nasirpur Road,2022,District Road,All,All
+Ghuman Hera Marg,Road,1,,,1,1,Unknown,Ghuman Hera Marg,2022,District Road,All,All
+Bharthal Marg,Road,1,,,1,1,Unknown,Bharthal Marg,2022,District Road,All,All
+NH-24,Road,23,,,88,24,Unknown,NH-24,2022,District Road,All,All
+Road No 56,Road,13,,,30,13,Unknown,Road No 56,2022,District Road,All,All
+Yamuna Pusta Road,Road,6,,,14,6,Unknown,Yamuna Pusta Road,2022,District Road,All,All
+Kotla Road,Road,4,,,8,4,Unknown,Kotla Road,2022,District Road,All,All
+Vikas Marg,Road,3,,,24,4,Unknown,Vikas Marg,2022,District Road,All,All
+Road No 57,Road,3,,,13,3,Unknown,Road No 57,2022,District Road,All,All
+Noida Road,Road,2,,,13,2,Unknown,Noida Road,2022,District Road,All,All
+Patpar Ganj Road,Road,2,,,8,2,Unknown,Patpar Ganj Road,2022,District Road,All,All
+Narwana Road,Road,1,,,5,1,Unknown,Narwana Road,2022,District Road,All,All
+Khichari Pur Road,Road,1,,,3,1,Unknown,Khichari Pur Road,2022,District Road,All,All
+Sardar Patel Marg,Road,5,,,10,5,Unknown,Sardar Patel Marg,2022,District Road,All,All
+Outer Circle CP,Road,4,,,8,4,Unknown,Outer Circle CP,2022,District Road,All,All
+Baba Kharak Singh Marg,Road,3,,,13,3,Unknown,Baba Kharak Singh Marg,2022,District Road,All,All
+Ashoka Road,Road,3,,,10,3,Unknown,Ashoka Road,2022,District Road,All,All
+Ring Road,Road,3,,,4,3,Unknown,Ring Road,2022,District Road,All,All
+Janpath,Road,2,,,7,2,Unknown,Janpath,2022,District Road,All,All
+Vinay Marg,Road,2,,,6,2,Unknown,Vinay Marg,2022,District Road,All,All
+Barakhamba Road,Road,2,,,5,2,Unknown,Barakhamba Road,2022,District Road,All,All
+Panchkuian Road,Road,2,,,5,2,Unknown,Panchkuian Road,2022,District Road,All,All
+Tilak Marg,Road,2,,,4,2,Unknown,Tilak Marg,2022,District Road,All,All
+Outer Ring Road,Road,27,,,97,27,Unknown,Outer Ring Road,2022,District Road,All,All
+Ring Road,Road,9,,,44,9,Unknown,Ring Road,2022,District Road,All,All
+Burari Road,Road,4,,,10,4,Unknown,Burari Road,2022,District Road,All,All
+Wazirabad Road,Road,4,,,9,4,Unknown,Wazirabad Road,2022,District Road,All,All
+Raja Ram Marg,Road,4,,,9,4,Unknown,Raja Ram Marg,2022,District Road,All,All
+Old Rohtak Road,Road,4,,,7,4,Unknown,Old Rohtak Road,2022,District Road,All,All
+SPM Marg,Road,4,,,5,4,Unknown,SPM Marg,2022,District Road,All,All
+Roshanara Road,Road,3,,,12,3,Unknown,Roshanara Road,2022,District Road,All,All
+Road No 40,Road,2,,,16,2,Unknown,Road No 40,2022,District Road,All,All
+Rajpur Road,Road,2,,,12,2,Unknown,Rajpur Road,2022,District Road,All,All
+Wazirabad Road,Road,21,,,96,22,Unknown,Wazirabad Road,2022,District Road,All,All
+Grand Trunk Road,Road,13,,,61,15,Unknown,Grand Trunk Road,2022,District Road,All,All
+Pusta Road,Road,10,,,64,10,Unknown,Pusta Road,2022,District Road,All,All
+Loni Road,Road,3,,,15,3,Unknown,Loni Road,2022,District Road,All,All
+100 Foota Road,Road,2,,,3,2,Unknown,100 Foota Road,2022,District Road,All,All
+Karawal Nagar Road,Road,1,,,11,1,Unknown,Karawal Nagar Road,2022,District Road,All,All
+Tahirpur Road,Road,1,,,2,1,Unknown,Tahirpur Road,2022,District Road,All,All
+Mandoli Road,Road,1,,,2,2,Unknown,Mandoli Road,2022,District Road,All,All
+Road No 66,Road,0,,,11,0,Unknown,Road No 66,2022,District Road,All,All
+Braham Puri Road,Road,0,,,4,0,Unknown,Braham Puri Road,2022,District Road,All,All
+Grand Trunk Road,Road,12,,,37,12,Unknown,Grand Trunk Road,2022,District Road,All,All
+Yamuna Pusta Road,Road,6,,,16,6,Unknown,Yamuna Pusta Road,2022,District Road,All,All
+Road No 57,Road,3,,,14,3,Unknown,Road No 57,2022,District Road,All,All
+Road No 56,Road,2,,,8,2,Unknown,Road No 56,2022,District Road,All,All
+71 No Road,Road,2,,,6,2,Unknown,71 No Road,2022,District Road,All,All
+Vikas Marg,Road,2,,,5,2,Unknown,Vikas Marg,2022,District Road,All,All
+Road No 58,Road,2,,,4,2,Unknown,Road No 58,2022,District Road,All,All
+Master Somanath Marg,Road,2,,,2,2,Unknown,Master Somanath Marg,2022,District Road,All,All
+GTB Hospital Road,Road,1,,,4,1,Unknown,GTB Hospital Road,2022,District Road,All,All
+Raja Ram Kohli Marg,Road,1,,,3,1,Unknown,Raja Ram Kohli Marg,2022,District Road,All,All
+Ring Road,Road,33,,,82,33,Unknown,Ring Road,2022,District Road,All,All
+Outer Ring Road,Road,32,,,80,33,Unknown,Outer Ring Road,2022,District Road,All,All
+GTK Road,Road,14,,,67,14,Unknown,GTK Road,2022,District Road,All,All
+51 No Road,Road,4,,,14,4,Unknown,51 No Road,2022,District Road,All,All
+Lawrance Road,Road,2,,,10,2,Unknown,Lawrance Road,2022,District Road,All,All
+Swami Narain Marg,Road,1,,,10,1,Unknown,Swami Narain Marg,2022,District Road,All,All
+Road No 37,Road,1,,,4,1,Unknown,Road No 37,2022,District Road,All,All
+Road No 43,Road,1,,,2,1,Unknown,Road No 43,2022,District Road,All,All
+Road No 41,Road,1,,,1,1,Unknown,Road No 41,2022,District Road,All,All
+Satyawati Road,Road,1,,,1,1,Unknown,Satyawati Road,2022,District Road,All,All
+Rohtak Road,Road,44,,,149,45,Unknown,Rohtak Road,2022,District Road,All,All
+Outer Ring Road,Road,21,,,60,21,Unknown,Outer Ring Road,2022,District Road,All,All
+Najafgarh Nangloi Road,Road,3,,,22,3,Unknown,Najafgarh Nangloi Road,2022,District Road,All,All
+Kanjhawala Road,Road,1,,,6,1,Unknown,Kanjhawala Road,2022,District Road,All,All
+Road No 43,Road,1,,,3,1,Unknown,Road No 43,2022,District Road,All,All
+Road No 30,Road,1,,,2,1,Unknown,Road No 30,2022,District Road,All,All
+Parwana Road,Road,1,,,2,1,Unknown,Parwana Road,2022,District Road,All,All
+Kirari Road,Road,0,,,1,0,Unknown,Kirari Road,2022,District Road,All,All
+Balbir Singh Marg,Road,0,,,1,0,Unknown,Balbir Singh Marg,2022,District Road,All,All
+GTK Road,Road,51,,,114,56,Unknown,GTK Road,2022,District Road,All,All
+Bawana Road,Road,28,,,79,28,Unknown,Bawana Road,2022,District Road,All,All
+Narela Road,Road,9,,,29,9,Unknown,Narela Road,2022,District Road,All,All
+Palla Road,Road,5,,,13,5,Unknown,Palla Road,2022,District Road,All,All
+Bawana Auchandi Road,Road,5,,,7,5,Unknown,Bawana Auchandi Road,2022,District Road,All,All
+Burari Road,Road,2,,,5,2,Unknown,Burari Road,2022,District Road,All,All
+Outer Ring Road,Road,2,,,3,2,Unknown,Outer Ring Road,2022,District Road,All,All
+Alipur Road,Road,1,,,11,1,Unknown,Alipur Road,2022,District Road,All,All
+DSIDC Narela Road,Road,1,,,8,1,Unknown,DSIDC Narela Road,2022,District Road,All,All
+Kanjhawala Road,Road,1,,,3,1,Unknown,Kanjhawala Road,2022,District Road,All,All
+Kanjhawala Road,Road,8,,,21,8,Unknown,Kanjhawala Road,2022,District Road,All,All
+Bhagwan Mahavir Marg,Road,4,,,21,4,Unknown,Bhagwan Mahavir Marg,2022,District Road,All,All
+Qutab Garh Road,Road,2,,,4,2,Unknown,Qutab Garh Road,2022,District Road,All,All
+Road No 41,Road,1,,,5,1,Unknown,Road No 41,2022,District Road,All,All
+Dinbandhu Chhote Ram Marg,Road,1,,,2,1,Unknown,Dinbandhu Chhote Ram Marg,2022,District Road,All,All
+Rithala Road,Road,0,,,2,0,Unknown,Rithala Road,2022,District Road,All,All
+Parwana Road,Road,0,,,1,0,Unknown,Parwana Road,2022,District Road,All,All
+Maharaja Agarsen Road,Road,0,,,1,0,Unknown,Maharaja Agarsen Road,2022,District Road,All,All
+Begumpur Road,Road,0,,,1,0,Unknown,Begumpur Road,2022,District Road,All,All
+Awantika Road,Road,0,,,1,0,Unknown,Awantika Road,2022,District Road,All,All
+Mehrauli Badarpur Road,Road,10,,,34,10,Unknown,Mehrauli Badarpur Road,2022,District Road,All,All
+Mehrauli Gurgaon Road,Road,9,,,33,9,Unknown,Mehrauli Gurgaon Road,2022,District Road,All,All
+Aurobindo Marg,Road,6,,,24,6,Unknown,Aurobindo Marg,2022,District Road,All,All
+Ring Road,Road,4,,,20,6,Unknown,Ring Road,2022,District Road,All,All
+Press Enclave Marg,Road,4,,,9,4,Unknown,Press Enclave Marg,2022,District Road,All,All
+Outer Ring Road,Road,3,,,30,3,Unknown,Outer Ring Road,2022,District Road,All,All
+Lala Lajpat Rai Path,Road,3,,,8,3,Unknown,Lala Lajpat Rai Path,2022,District Road,All,All
+Anuvrat Road,Road,2,,,5,2,Unknown,Anuvrat Road,2022,District Road,All,All
+100 Foota Chhattar Pur Road,Road,2,,,3,2,Unknown,100 Foota Chhattar Pur Road,2022,District Road,All,All
+Lal Bhadur Shastri Marg,Road,1,,,17,1,Unknown,Lal Bhadur Shastri Marg,2022,District Road,All,All
+Mathura Road,Road,26,,,110,26,Unknown,Mathura Road,2022,District Road,All,All
+Ring Road,Road,16,,,55,17,Unknown,Ring Road,2022,District Road,All,All
+Mehrauli Badarpur Road,Road,10,,,11,10,Unknown,Mehrauli Badarpur Road,2022,District Road,All,All
+Anand Mai Marg,Road,8,,,42,8,Unknown,Anand Mai Marg,2022,District Road,All,All
+Agra Canal Road,Road,6,,,21,6,Unknown,Agra Canal Road,2022,District Road,All,All
+13A No Road,Road,6,,,18,6,Unknown,13A No Road,2022,District Road,All,All
+Jaitpur Road,Road,4,,,4,4,Unknown,Jaitpur Road,2022,District Road,All,All
+Outer Ring Road,Road,3,,,21,3,Unknown,Outer Ring Road,2022,District Road,All,All
+Okhla Road,Road,3,,,6,3,Unknown,Okhla Road,2022,District Road,All,All
+Lala Lajpat Rai Path,Road,2,,,19,3,Unknown,Lala Lajpat Rai Path,2022,District Road,All,All
+NH-8,Road,29,,,84,30,Unknown,NH-8,2022,District Road,All,All
+Ring Road,Road,15,,,47,15,Unknown,Ring Road,2022,District Road,All,All
+Outer Ring Road,Road,10,,,33,11,Unknown,Outer Ring Road,2022,District Road,All,All
+Bijwasan Road,Road,7,,,16,7,Unknown,Bijwasan Road,2022,District Road,All,All
+201 No. Road,Road,5,,,19,5,Unknown,201 No. Road,2022,District Road,All,All
+Old Gurgaon Road,Road,4,,,9,4,Unknown,Old Gurgaon Road,2022,District Road,All,All
+Mahipal Pur Road,Road,3,,,19,3,Unknown,Mahipal Pur Road,2022,District Road,All,All
+Rao Tula Ram Marg,Road,3,,,15,3,Unknown,Rao Tula Ram Marg,2022,District Road,All,All
+Thimayya Marg,Road,3,,,7,3,Unknown,Thimayya Marg,2022,District Road,All,All
+Nelson Mandela Marg,Road,2,,,4,2,Unknown,Nelson Mandela Marg,2022,District Road,All,All
+Ring Road,Road,30,,,65,30,Unknown,Ring Road,2022,District Road,All,All
+Rohtak Road,Road,19,,,42,19,Unknown,Rohtak Road,2022,District Road,All,All
+Najafgarh Road,Road,13,,,63,13,Unknown,Najafgarh Road,2022,District Road,All,All
+Pankha Road,Road,8,,,27,8,Unknown,Pankha Road,2022,District Road,All,All
+Mayapuri Marg,Road,6,,,17,6,Unknown,Mayapuri Marg,2022,District Road,All,All
+Patel Road,Road,5,,,16,5,Unknown,Patel Road,2022,District Road,All,All
+Outer Ring Road,Road,4,,,25,4,Unknown,Outer Ring Road,2022,District Road,All,All
+Dev Prakash Shastri Road,Road,4,,,18,5,Unknown,Dev Prakash Shastri Road,2022,District Road,All,All
+Rama Road,Road,3,,,10,3,Unknown,Rama Road,2022,District Road,All,All
+Jail Road,Road,1,,,8,1,Unknown,Jail Road,2022,District Road,All,All
+Mukarba Chowk,Crash Prone Zone,12,,,23,12,,,2022,Crash Prone Zone,All,All
+Khampur Village,Crash Prone Zone,10,,,19,10,,,2022,Crash Prone Zone,All,All
+Dhaula Kuan,Crash Prone Zone,8,,,17,8,,,2022,Crash Prone Zone,All,All
+Maya Puri Chowk,Crash Prone Zone,8,,,16,8,,,2022,Crash Prone Zone,All,All
+Gandhi Vihar Bus Stand,Crash Prone Zone,7,,,25,7,,,2022,Crash Prone Zone,All,All
+Bhalswa Chowk,Crash Prone Zone,7,,,21,7,,,2022,Crash Prone Zone,All,All
+Peeragarhi Chowk,Crash Prone Zone,7,,,16,7,,,2022,Crash Prone Zone,All,All
+Punjabi Bagh Chowk,Crash Prone Zone,7,,,15,7,,,2022,Crash Prone Zone,All,All
+Britannia Chowk,Crash Prone Zone,7,,,14,7,,,2022,Crash Prone Zone,All,All
+Ashram Chowk,Crash Prone Zone,7,,,14,7,,,2022,Crash Prone Zone,All,All
+Akshardham Mandir,Crash Prone Zone,6,,,23,6,,,2022,Crash Prone Zone,All,All
+Adarsh Nagar,Crash Prone Zone,6,,,10,6,,,2022,Crash Prone Zone,All,All
+Mukundpur Chowk,Crash Prone Zone,5,,,21,5,,,2022,Crash Prone Zone,All,All
+Nirankari Colony,Crash Prone Zone,5,,,16,5,,,2022,Crash Prone Zone,All,All
+Loni Road Crossing,Crash Prone Zone,5,,,16,5,,,2022,Crash Prone Zone,All,All
+Murga Mandi Flyover,Crash Prone Zone,5,,,13,5,,,2022,Crash Prone Zone,All,All
+Shalimar Bagh,Crash Prone Zone,5,,,13,5,,,2022,Crash Prone Zone,All,All
+Rama Road Crossing,Crash Prone Zone,5,,,12,5,,,2022,Crash Prone Zone,All,All
+Kalindi Kunj,Crash Prone Zone,5,,,12,5,,,2022,Crash Prone Zone,All,All
+Monestry Ring Road,Crash Prone Zone,5,,,11,5,,,2022,Crash Prone Zone,All,All
+Nangli Poona,Crash Prone Zone,5,,,11,5,,,2022,Crash Prone Zone,All,All
+Rajoukari Flyover,Crash Prone Zone,5,,,11,5,,,2022,Crash Prone Zone,All,All
+Metro Station Dilshad Garden,Crash Prone Zone,5,,,11,5,,,2022,Crash Prone Zone,All,All
+Wazir Pur Depot,Crash Prone Zone,5,,,11,5,,,2022,Crash Prone Zone,All,All
+Metro Station Madipur,Crash Prone Zone,5,,,10,5,,,2022,Crash Prone Zone,All,All
+Gb Pant Hospital,Crash Prone Zone,5,,,9,5,,,2022,Crash Prone Zone,All,All
+Under Pass Gajipur,Crash Prone Zone,5,,,8,5,,,2022,Crash Prone Zone,All,All
+SGT Nagar,Crash Prone Zone,5,,,7,5,,,2022,Crash Prone Zone,All,All
+Okhla More,Crash Prone Zone,5,,,7,5,,,2022,Crash Prone Zone,All,All
+Shanti Van,Crash Prone Zone,4,,,20,4,,,2022,Crash Prone Zone,All,All
+ITO/I P Flyover,Crash Prone Zone,4,,,19,4,,,2022,Crash Prone Zone,All,All
+AIIMS,Crash Prone Zone,4,,,17,4,,,2022,Crash Prone Zone,All,All
+Zakhira Flyover,Crash Prone Zone,4,,,13,4,,,2022,Crash Prone Zone,All,All
+Azadpur Bus Terminal,Crash Prone Zone,4,,,12,4,,,2022,Crash Prone Zone,All,All
+Mahipalpur Flyover,Crash Prone Zone,4,,,11,4,,,2022,Crash Prone Zone,All,All
+Toll Plaza Badarpur,Crash Prone Zone,4,,,10,4,,,2022,Crash Prone Zone,All,All
+Prem Bari Pull,Crash Prone Zone,4,,,9,4,,,2022,Crash Prone Zone,All,All
+Libaspur Bus Stand,Crash Prone Zone,4,,,9,4,,,2022,Crash Prone Zone,All,All
+Telco Gajipur,Crash Prone Zone,4,,,8,4,,,2022,Crash Prone Zone,All,All
+Jahangir Puri Bus Stand Outer Ring Road,Crash Prone Zone,4,,,8,4,,,2022,Crash Prone Zone,All,All
+CNG Pump/Jain Mandir Nh-1,Crash Prone Zone,4,,,7,4,,,2022,Crash Prone Zone,All,All
+C-1 Janakpuri,Crash Prone Zone,4,,,7,4,,,2022,Crash Prone Zone,All,All
+Gurudwara Raja Garden,Crash Prone Zone,4,,,7,4,,,2022,Crash Prone Zone,All,All
+DC Office,Crash Prone Zone,4,,,7,4,,,2022,Crash Prone Zone,All,All
+Shamshan Ghat Punjabi Bagh,Crash Prone Zone,4,,,6,4,,,2022,Crash Prone Zone,All,All
+Madhuban Chowk,Crash Prone Zone,4,,,6,4,,,2022,Crash Prone Zone,All,All
+Shani Mandir Nh-1,Crash Prone Zone,4,,,6,4,,,2022,Crash Prone Zone,All,All
+Red Light Rajiv Gandhi Hospital,Crash Prone Zone,4,,,6,4,,,2022,Crash Prone Zone,All,All
+Lajwanti Chowk,Crash Prone Zone,4,,,5,4,,,2022,Crash Prone Zone,All,All
+Singhu Border,Crash Prone Zone,4,,,5,4,,,2022,Crash Prone Zone,All,All
+ICD Tuglakabad,Crash Prone Zone,4,,,4,4,,,2022,Crash Prone Zone,All,All
+Shastri Park/IT Park,Crash Prone Zone,3,,,25,3,,,2022,Crash Prone Zone,All,All
+Azadpur Sabzi Mandi,Crash Prone Zone,3,,,14,3,,,2022,Crash Prone Zone,All,All
+Govindpuri Metro Station,Crash Prone Zone,3,,,13,3,,,2022,Crash Prone Zone,All,All
+RML Hospital,Crash Prone Zone,3,,,13,3,,,2022,Crash Prone Zone,All,All
+Kakrola Dwarka More,Crash Prone Zone,3,,,12,3,,,2022,Crash Prone Zone,All,All
+Azad Pur Chowk,Crash Prone Zone,3,,,12,3,,,2022,Crash Prone Zone,All,All
+Delhi Gate,Crash Prone Zone,3,,,11,3,,,2022,Crash Prone Zone,All,All
+Pani Ki Tanki Nangloi,Crash Prone Zone,3,,,11,3,,,2022,Crash Prone Zone,All,All
+Shakarpur Chungi,Crash Prone Zone,3,,,10,3,,,2022,Crash Prone Zone,All,All
+Wazirabad,Crash Prone Zone,3,,,9,3,,,2022,Crash Prone Zone,All,All
+Gokalpuri,Crash Prone Zone,3,,,9,3,,,2022,Crash Prone Zone,All,All
+Dharampura Red Light Seelampur,Crash Prone Zone,3,,,9,3,,,2022,Crash Prone Zone,All,All
+Shiv Murti Nh-8,Crash Prone Zone,3,,,8,3,,,2022,Crash Prone Zone,All,All
+Sanjay T-Point,Crash Prone Zone,3,,,8,3,,,2022,Crash Prone Zone,All,All
+Hyaat Hotel,Crash Prone Zone,3,,,8,3,,,2022,Crash Prone Zone,All,All
+Bakoli Bus Stand,Crash Prone Zone,3,,,8,3,,,2022,Crash Prone Zone,All,All
+IP DTC Depot,Crash Prone Zone,3,,,7,3,,,2022,Crash Prone Zone,All,All
+Kalkaji Mandir,Crash Prone Zone,3,,,7,3,,,2022,Crash Prone Zone,All,All
+Delhi Public Lib/Sriniwas Puri/Gupta Market,Crash Prone Zone,3,,,7,3,,,2022,Crash Prone Zone,All,All
+Shyam Lal College,Crash Prone Zone,3,,,7,3,,,2022,Crash Prone Zone,All,All
+Hanuman Mandir Yamuna Bazar,Crash Prone Zone,3,,,7,3,,,2022,Crash Prone Zone,All,All
+Bhajanpura Chowk,Crash Prone Zone,3,,,7,3,,,2022,Crash Prone Zone,All,All
+Rajdhani Park,Crash Prone Zone,3,,,7,3,,,2022,Crash Prone Zone,All,All
+Gazipur Village Near Petrol Pump,Crash Prone Zone,3,,,7,3,,,2022,Crash Prone Zone,All,All
+Barwala Village Bawana Road,Crash Prone Zone,3,,,6,3,,,2022,Crash Prone Zone,All,All
+Metro Station East Punjabi Bagh,Crash Prone Zone,3,,,6,3,,,2022,Crash Prone Zone,All,All
+Round About Okhla Estate,Crash Prone Zone,3,,,6,3,,,2022,Crash Prone Zone,All,All
+East Vinod Nagar/Mv Ii Red Light,Crash Prone Zone,3,,,6,3,,,2022,Crash Prone Zone,All,All
+Sarai Kale Khan,Crash Prone Zone,3,,,6,3,,,2022,Crash Prone Zone,All,All
+Janak Cinema,Crash Prone Zone,3,,,6,3,,,2022,Crash Prone Zone,All,All
+IG Indoor Stadium,Crash Prone Zone,3,,,6,3,,,2022,Crash Prone Zone,All,All
+VIP College Pitampura,Crash Prone Zone,3,,,6,3,,,2022,Crash Prone Zone,All,All
+West Enclave Red Light,Crash Prone Zone,3,,,6,3,,,2022,Crash Prone Zone,All,All
+Gurudwara Bangla Sahib,Crash Prone Zone,3,,,5,3,,,2022,Crash Prone Zone,All,All
+Sai Baba Mandir Nh-1,Crash Prone Zone,3,,,5,3,,,2022,Crash Prone Zone,All,All
+Lajpat Rai Market (Lal Qila),Crash Prone Zone,3,,,5,3,,,2022,Crash Prone Zone,All,All
+Model Town IIIrd,Crash Prone Zone,3,,,5,3,,,2022,Crash Prone Zone,All,All
+Subhash Nagar Metro Station,Crash Prone Zone,3,,,5,3,,,2022,Crash Prone Zone,All,All
+Lado Sarai Crossing,Crash Prone Zone,3,,,5,3,,,2022,Crash Prone Zone,All,All
+Shamshan Ghat Geeta Colony,Crash Prone Zone,3,,,5,3,,,2022,Crash Prone Zone,All,All
+Budhpur Ganda Nala/Hanuman Mandir,Crash Prone Zone,3,,,4,3,,,2022,Crash Prone Zone,All,All
+Near Maurya Sheraton Hotel,Crash Prone Zone,3,,,4,3,,,2022,Crash Prone Zone,All,All
+Safdarjung Hospital,Crash Prone Zone,3,,,4,3,,,2022,Crash Prone Zone,All,All
+Mool Chand,Crash Prone Zone,2,,,14,2,,,2022,Crash Prone Zone,All,All
+Swaroop Nagar,Crash Prone Zone,2,,,13,2,,,2022,Crash Prone Zone,All,All
+Khajoori Chowk,Crash Prone Zone,2,,,12,2,,,2022,Crash Prone Zone,All,All
+Gagan Cinema,Crash Prone Zone,2,,,12,2,,,2022,Crash Prone Zone,All,All
+Kings Way Camp Chowk,Crash Prone Zone,2,,,11,2,,,2022,Crash Prone Zone,All,All
+Shyamgiri Mandir Shastri Park,Crash Prone Zone,2,,,11,2,,,2022,Crash Prone Zone,All,All
+Burari Chowk,Crash Prone Zone,2,,,11,2,,,2022,Crash Prone Zone,All,All
+NSIT Dwarka,Crash Prone Zone,2,,,11,2,,,2022,Crash Prone Zone,All,All
+Mundka Metro Station,Crash Prone Zone,2,,,10,2,,,2022,Crash Prone Zone,All,All
+Rajouri Garden,Crash Prone Zone,2,,,10,2,,,2022,Crash Prone Zone,All,All
+Rajapuri Red Light,Crash Prone Zone,2,,,10,2,,,2022,Crash Prone Zone,All,All
+Jahangir Puri Metro Station GTK Road,Crash Prone Zone,1,,,15,1,,,2022,Crash Prone Zone,All,All
+Moti Bagh Flyover,Crash Prone Zone,1,,,11,1,,,2022,Crash Prone Zone,All,All
+Moti Nagar Flyover,Crash Prone Zone,1,,,11,1,,,2022,Crash Prone Zone,All,All
+Nehru Palace,Crash Prone Zone,1,,,11,1,,,2022,Crash Prone Zone,All,All
+Chirag Delhi Flyover,Crash Prone Zone,1,,,11,1,,,2022,Crash Prone Zone,All,All
+Khichadi Pur,Crash Prone Zone,1,,,11,1,,,2022,Crash Prone Zone,All,All
+Kashmiri Gate Chowk Boulevard Road,Crash Prone Zone,1,,,11,1,,,2022,Crash Prone Zone,All,All
+Durgapuri Chowk,Crash Prone Zone,1,,,10,1,,,2022,Crash Prone Zone,All,All
+Sarita Vihar Metro Station,Crash Prone Zone,1,,,10,1,,,2022,Crash Prone Zone,All,All
+Keshopur T Point,Crash Prone Zone,1,,,10,1,,,2022,Crash Prone Zone,All,All
+Modi Mill Flyover,Crash Prone Zone,1,,,10,1,,,2022,Crash Prone Zone,All,All
+Sec 10 Red Light Dwarka,Crash Prone Zone,0,,,12,0,,,2022,Crash Prone Zone,All,All
+Mukarba Chowk,Black Spot,12,,1,23,12,,,2022,Black Spot,All,All
+Khampur Village,Black Spot,10,,1,19,10,,,2022,Black Spot,All,All
+Dhaula Kuan,Black Spot,8,,1,17,8,,,2022,Black Spot,All,All
+Maya Puri Chowk,Black Spot,8,,0,16,8,,,2022,Black Spot,All,All
+Gandhi Vihar Bus Stand,Black Spot,7,,0,25,7,,,2022,Black Spot,All,All
+Bhalswa Chowk,Black Spot,7,,0,21,7,,,2022,Black Spot,All,All
+Peera Garhi Chowk,Black Spot,7,,0,16,7,,,2022,Black Spot,All,All
+Punjabi Bagh Chowk,Black Spot,7,,0,15,7,,,2022,Black Spot,All,All
+Britannia Chowk,Black Spot,7,,0,14,7,,,2022,Black Spot,All,All
+Ashram Chowk,Black Spot,7,,0,14,7,,,2022,Black Spot,All,All
+Outer Ring Road,Road,15,,,46,15,,Outer Ring Road,2022,Pedestrian Road,Day,Pedestrian
+Outer Ring Road,Road,25,,,61,25,,Outer Ring Road,2022,Pedestrian Road,Night,Pedestrian
+Ring Road,Road,10,,,51,10,,Ring Road,2022,Pedestrian Road,Day,Pedestrian
+Ring Road,Road,29,,,62,29,,Ring Road,2022,Pedestrian Road,Night,Pedestrian
+Rohtak Road,Road,21,,,54,21,,Rohtak Road,2022,Pedestrian Road,Day,Pedestrian
+Rohtak Road,Road,14,,,34,14,,Rohtak Road,2022,Pedestrian Road,Night,Pedestrian
+GTK Road,Road,14,,,43,14,,GTK Road,2022,Pedestrian Road,Day,Pedestrian
+GTK Road,Road,19,,,32,19,,GTK Road,2022,Pedestrian Road,Night,Pedestrian
+Bawana Road,Road,4,,,13,4,,Bawana Road,2022,Pedestrian Road,Day,Pedestrian
+Bawana Road,Road,8,,,12,8,,Bawana Road,2022,Pedestrian Road,Night,Pedestrian
+Road No 56,Road,7,,,14,7,,Road No 56,2022,Pedestrian Road,Day,Pedestrian
+Road No 56,Road,5,,,7,5,,Road No 56,2022,Pedestrian Road,Night,Pedestrian
+Mathura Road,Road,5,,,22,5,,Mathura Road,2022,Pedestrian Road,Day,Pedestrian
+Mathura Road,Road,6,,,16,6,,Mathura Road,2022,Pedestrian Road,Night,Pedestrian
+NH-8,Road,5,,,8,5,,NH-8,2022,Pedestrian Road,Day,Pedestrian
+NH-8,Road,6,,,8,6,,NH-8,2022,Pedestrian Road,Night,Pedestrian
+Najafgarh Road,Road,3,,,23,3,,Najafgarh Road,2022,Pedestrian Road,Day,Pedestrian
+Najafgarh Road,Road,7,,,20,7,,Najafgarh Road,2022,Pedestrian Road,Night,Pedestrian
+Grand Trunk Road,Road,4,,,21,4,,Grand Trunk Road,2022,Pedestrian Road,Day,Pedestrian
+Grand Trunk Road,Road,5,,,11,5,,Grand Trunk Road,2022,Pedestrian Road,Night,Pedestrian
+Wazirabad Road,Road,2,,,30,2,,Wazirabad Road,2022,Pedestrian Road,Day,Pedestrian
+Wazirabad Road,Road,5,,,16,5,,Wazirabad Road,2022,Pedestrian Road,Night,Pedestrian
+Desh Bandu Gupta Road,Road,5,,,10,5,,Desh Bandu Gupta Road,2022,Pedestrian Road,Day,Pedestrian
+Desh Bandu Gupta Road,Road,2,,,7,2,,Desh Bandu Gupta Road,2022,Pedestrian Road,Night,Pedestrian
+Pusta Road,Road,2,,,18,2,,Pusta Road,2022,Pedestrian Road,Day,Pedestrian
+Pusta Road,Road,4,,,15,4,,Pusta Road,2022,Pedestrian Road,Night,Pedestrian
+201 No. Road,Road,5,,,15,5,,201 No. Road,2022,Pedestrian Road,Day,Pedestrian
+201 No. Road,Road,1,,,9,1,,201 No. Road,2022,Pedestrian Road,Night,Pedestrian
+Mehrauli Badarpur Road,Road,3,,,7,3,,Mehrauli Badarpur Road,2022,Pedestrian Road,Day,Pedestrian
+Mehrauli Badarpur Road,Road,3,,,6,3,,Mehrauli Badarpur Road,2022,Pedestrian Road,Night,Pedestrian
+Jawar Lal Nehru Road,Road,4,,,8,4,,Jawar Lal Nehru Road,2022,Pedestrian Road,Day,Pedestrian
+Jawar Lal Nehru Road,Road,2,,,2,2,,Jawar Lal Nehru Road,2022,Pedestrian Road,Night,Pedestrian
+Patel Road,Road,2,,,4,2,,Patel Road,2022,Pedestrian Road,Day,Pedestrian
+Patel Road,Road,3,,,7,3,,Patel Road,2022,Pedestrian Road,Night,Pedestrian
+NH-24,Road,3,,,16,3,,NH-24,2022,Pedestrian Road,Day,Pedestrian
+NH-24,Road,1,,,11,1,,NH-24,2022,Pedestrian Road,Night,Pedestrian
+Pankha Road,Road,0,,,8,0,,Pankha Road,2022,Pedestrian Road,Day,Pedestrian
+Pankha Road,Road,4,,,6,4,,Pankha Road,2022,Pedestrian Road,Night,Pedestrian
+Road No 57,Road,3,,,10,3,,Road No 57,2022,Pedestrian Road,Day,Pedestrian
+Road No 57,Road,1,,,2,1,,Road No 57,2022,Pedestrian Road,Night,Pedestrian
+Narela Road,Road,1,,,5,1,,Narela Road,2022,Pedestrian Road,Day,Pedestrian
+Narela Road,Road,3,,,6,3,,Narela Road,2022,Pedestrian Road,Night,Pedestrian
+Yamuna Pusta Road,Road,0,,,3,0,,Yamuna Pusta Road,2022,Pedestrian Road,Day,Pedestrian
+Yamuna Pusta Road,Road,4,,,7,4,,Yamuna Pusta Road,2022,Pedestrian Road,Night,Pedestrian
+Lala Lajpat Rai Path,Road,2,,,8,2,,Lala Lajpat Rai Path,2022,Pedestrian Road,Day,Pedestrian
+Lala Lajpat Rai Path,Road,2,,,2,2,,Lala Lajpat Rai Path,2022,Pedestrian Road,Night,Pedestrian
+Mehrauli Gurgaon Road,Road,1,,,8,1,,Mehrauli Gurgaon Road,2022,Pedestrian Road,Day,Pedestrian
+Mehrauli Gurgaon Road,Road,2,,,4,2,,Mehrauli Gurgaon Road,2022,Pedestrian Road,Night,Pedestrian
+Baba Kharak Singh Marg,Road,2,,,6,2,,Baba Kharak Singh Marg,2022,Pedestrian Road,Day,Pedestrian
+Baba Kharak Singh Marg,Road,1,,,5,1,,Baba Kharak Singh Marg,2022,Pedestrian Road,Night,Pedestrian

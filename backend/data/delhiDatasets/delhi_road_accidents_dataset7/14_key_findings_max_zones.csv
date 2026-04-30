@@ -1,0 +1,17 @@
+Category,Name,Number_Prone_Zones,Description
+Range,Outer Range,25,Maximum accident-prone zones among ranges
+Range,Southern Range,23,Maximum accident-prone zones among ranges
+Range,Western Range,23,Maximum accident-prone zones among ranges
+Range,Eastern Range,20,Maximum accident-prone zones among ranges
+District,North-West,22,Maximum accident-prone zones among districts
+District,South-East,18,Maximum accident-prone zones among districts
+District,West,18,Maximum accident-prone zones among districts
+District,North-East,11,Maximum accident-prone zones among districts
+District,East,9,Maximum accident-prone zones among districts
+Circle,Burari Circle,11,Maximum accident-prone zones among circles
+Circle,Nangloi Circle,8,Maximum accident-prone zones among circles
+Circle,Kalkaji Circle,7,Maximum accident-prone zones among circles
+Circle,Sarita Vihar Circle,6,Maximum accident-prone zones among circles
+Circle,Shahdara Circle,6,Maximum accident-prone zones among circles
+Circle,Civil Line Circle,6,Maximum accident-prone zones among circles
+Circle,Vivek Vihar Circle,5,Maximum accident-prone zones among circles

@@ -1,0 +1,234 @@
+{
+  "total_time_seconds": 1420.51,
+  "datasets_processed": [
+    "primary",
+    "secondary"
+  ],
+  "results": {
+    "primary": {
+      "models_trained": 5,
+      "best_model": "XGBoost",
+      "best_f1": 0.8891,
+      "metrics": [
+        {
+          "model_name": "RandomForest",
+          "accuracy": 0.8528,
+          "precision_weighted": 0.8533,
+          "recall_weighted": 0.8528,
+          "f1_weighted": 0.8514,
+          "f1_macro": 0.8315,
+          "roc_auc": 0.9504,
+          "cohens_kappa": 0.7852,
+          "mcc": 0.7856,
+          "log_loss": 0.7033,
+          "cv_mean": 0.8708,
+          "cv_std": 0.0078,
+          "training_time": 0.57,
+          "class_labels": [
+            "0",
+            "1",
+            "2",
+            "3"
+          ]
+        },
+        {
+          "model_name": "XGBoost",
+          "accuracy": 0.8892,
+          "precision_weighted": 0.891,
+          "recall_weighted": 0.8892,
+          "f1_weighted": 0.8891,
+          "f1_macro": 0.8861,
+          "roc_auc": 0.9676,
+          "cohens_kappa": 0.8382,
+          "mcc": 0.8386,
+          "log_loss": 0.3812,
+          "cv_mean": 0.8751,
+          "cv_std": 0.0087,
+          "training_time": 1.9,
+          "class_labels": [
+            "0",
+            "1",
+            "2",
+            "3"
+          ]
+        },
+        {
+          "model_name": "GradientBoosting",
+          "accuracy": 0.8805,
+          "precision_weighted": 0.8821,
+          "recall_weighted": 0.8805,
+          "f1_weighted": 0.8804,
+          "f1_macro": 0.8786,
+          "roc_auc": 0.9627,
+          "cohens_kappa": 0.826,
+          "mcc": 0.8262,
+          "log_loss": 0.4178,
+          "cv_mean": 0.8695,
+          "cv_std": 0.011,
+          "training_time": 28.25,
+          "class_labels": [
+            "0",
+            "1",
+            "2",
+            "3"
+          ]
+        },
+        {
+          "model_name": "SVM",
+          "accuracy": 0.4464,
+          "precision_weighted": 0.4808,
+          "recall_weighted": 0.4464,
+          "f1_weighted": 0.4533,
+          "f1_macro": 0.4181,
+          "roc_auc": 0.6865,
+          "cohens_kappa": 0.2357,
+          "mcc": 0.2398,
+          "log_loss": 1.1941,
+          "cv_mean": 0.5621,
+          "cv_std": 0.0085,
+          "training_time": 13.57,
+          "class_labels": [
+            "0",
+            "1",
+            "2",
+            "3"
+          ]
+        },
+        {
+          "model_name": "LogisticRegression",
+          "accuracy": 0.3276,
+          "precision_weighted": 0.3832,
+          "recall_weighted": 0.3276,
+          "f1_weighted": 0.3284,
+          "f1_macro": 0.3021,
+          "roc_auc": 0.6058,
+          "cohens_kappa": 0.1043,
+          "mcc": 0.1102,
+          "log_loss": 1.338,
+          "cv_mean": 0.345,
+          "cv_std": 0.0093,
+          "training_time": 0.67,
+          "class_labels": [
+            "0",
+            "1",
+            "2",
+            "3"
+          ]
+        }
+      ]
+    },
+    "secondary": {
+      "models_trained": 5,
+      "best_model": "GradientBoosting",
+      "best_f1": 0.9082,
+      "metrics": [
+        {
+          "model_name": "RandomForest",
+          "accuracy": 0.9355,
+          "precision_weighted": 0.8775,
+          "recall_weighted": 0.9355,
+          "f1_weighted": 0.9049,
+          "f1_macro": 0.4867,
+          "roc_auc": 0.9485,
+          "cohens_kappa": 0.8716,
+          "mcc": 0.8811,
+          "log_loss": 0.2473,
+          "cv_mean": 0.9734,
+          "cv_std": 0.0019,
+          "training_time": 1.78,
+          "class_labels": [
+            "0",
+            "1",
+            "2",
+            "3"
+          ]
+        },
+        {
+          "model_name": "XGBoost",
+          "accuracy": 0.9347,
+          "precision_weighted": 0.9036,
+          "recall_weighted": 0.9347,
+          "f1_weighted": 0.9075,
+          "f1_macro": 0.4987,
+          "roc_auc": 0.9436,
+          "cohens_kappa": 0.8705,
+          "mcc": 0.8788,
+          "log_loss": 0.2714,
+          "cv_mean": 0.9719,
+          "cv_std": 0.0017,
+          "training_time": 16.89,
+          "class_labels": [
+            "0",
+            "1",
+            "2",
+            "3"
+          ]
+        },
+        {
+          "model_name": "GradientBoosting",
+          "accuracy": 0.9347,
+          "precision_weighted": 0.9073,
+          "recall_weighted": 0.9347,
+          "f1_weighted": 0.9082,
+          "f1_macro": 0.5016,
+          "roc_auc": 0.941,
+          "cohens_kappa": 0.8706,
+          "mcc": 0.8787,
+          "log_loss": 0.3019,
+          "cv_mean": 0.9712,
+          "cv_std": 0.0021,
+          "training_time": 195.21,
+          "class_labels": [
+            "0",
+            "1",
+            "2",
+            "3"
+          ]
+        },
+        {
+          "model_name": "SVM",
+          "accuracy": 0.8807,
+          "precision_weighted": 0.8787,
+          "recall_weighted": 0.8807,
+          "f1_weighted": 0.8796,
+          "f1_macro": 0.5009,
+          "roc_auc": 0.9362,
+          "cohens_kappa": 0.7759,
+          "mcc": 0.776,
+          "log_loss": 0.4547,
+          "cv_mean": 0.9588,
+          "cv_std": 0.0033,
+          "training_time": 74.71,
+          "class_labels": [
+            "0",
+            "1",
+            "2",
+            "3"
+          ]
+        },
+        {
+          "model_name": "LogisticRegression",
+          "accuracy": 0.7313,
+          "precision_weighted": 0.8953,
+          "recall_weighted": 0.7313,
+          "f1_weighted": 0.7856,
+          "f1_macro": 0.4906,
+          "roc_auc": 0.9405,
+          "cohens_kappa": 0.5811,
+          "mcc": 0.6231,
+          "log_loss": 0.5554,
+          "cv_mean": 0.8314,
+          "cv_std": 0.005,
+          "training_time": 67.64,
+          "class_labels": [
+            "0",
+            "1",
+            "2",
+            "3"
+          ]
+        }
+      ]
+    }
+  },
+  "timestamp": "2026-03-28 17:33:05"
+}

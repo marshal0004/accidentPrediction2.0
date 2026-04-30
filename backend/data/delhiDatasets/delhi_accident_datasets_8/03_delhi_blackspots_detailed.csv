@@ -1,0 +1,21 @@
+Blackspot_Name,Year,Non_Injury_Crashes,Injury_Crashes,Fatal_Crashes,Total_Crashes,Persons_Injured,Persons_Killed,Day_Fatal,Day_Total,Night_Fatal,Night_Total,Vulnerable_Timeslot_1,Vulnerable_Timeslot_2,Vulnerable_Timeslot_3,Top_Offending_Vehicle_1,Top_Offending_Vehicle_2,Top_Victim_1,Top_Victim_2
+Azadpur Sabzi Mandi,2023,0,5,4,9,5,4,5,10,6,10,1800-2100,2300-2400,0600-0700,HTVs,Unknown vehicle,Pedestrians,SC/MCs
+Azadpur Sabzi Mandi,2024,1,8,11,20,9,11,5,10,6,10,1800-2100,2300-2400,0600-0700,HTVs,Unknown vehicle,Pedestrians,SC/MCs
+Wazirabad,2023,0,10,3,13,16,3,4,8,5,7,2300-2400,0500-0800,1000-1200,HTVs,Buses,SC/MCs,Pedestrians
+Wazirabad,2024,0,6,9,15,7,10,4,8,5,7,2300-2400,0500-0800,1000-1200,Unknown vehicle,HTVs,SC/MCs,Pedestrians
+Akshardham Mandir,2023,0,5,5,10,7,5,4,12,5,7,1800-2000,0000-0100,1000-1300,Car/Taxi,Unknown vehicle,SC/MCs,Pedestrians
+Akshardham Mandir,2024,0,11,8,19,14,8,4,12,5,7,1800-2000,0000-0100,1000-1300,Car/Taxi,Unknown vehicle,SC/MCs,Pedestrians
+ISBT Kashmiri Gate,2023,1,11,7,19,12,7,3,8,5,9,0400-0900,0100-0300,1800-2000,LGVs,SC/MC,Pedestrians,SC/MCs
+ISBT Kashmiri Gate,2024,0,9,8,17,11,8,3,8,5,9,0400-0900,0100-0300,1800-2000,Unknown vehicle,SC/MC,Pedestrians,SC/MCs
+Anand Vihar ISBT,2023,1,10,5,16,11,5,2,4,6,12,2300-0400,2100-2200,0800-1000,Car/Taxi,SC/MC,Pedestrians,SC/MCs
+Anand Vihar ISBT,2024,0,8,8,16,13,8,2,4,6,12,2300-0400,2100-2200,0800-1000,Car/Taxi,Unknown vehicle,Pedestrians,SC/MCs
+SGT Nagar,2023,2,4,5,11,4,6,4,9,3,9,1600-2000,2200-2400,0400-0500,Car/Taxi,LGVs,SC/MCs,Pedestrians
+SGT Nagar,2024,0,11,7,18,16,8,4,9,3,9,1600-2000,2200-2400,0400-0500,Unknown vehicle,Car/Taxi,SC/MCs,Pedestrians
+Rajoukari Flyover,2023,0,9,1,10,11,1,1,5,6,11,0400-0700,2300-2400,2100-2200,HTVs,LGVs,SC/MCs,Pedestrians
+Rajoukari Flyover,2024,0,9,7,16,14,7,1,5,6,11,0400-0700,2300-2400,2100-2200,HTVs,LGVs,SC/MCs,Electric rickshaws
+Near Yashobhoomi Convention Centre Dwarka,2023,0,0,0,0,0,0,0,0,0,0,,,,,,
+Near Yashobhoomi Convention Centre Dwarka,2024,0,5,7,12,7,7,1,3,6,9,0000-0300,2100-2200,1200-1400,Car/Taxi,HTVs,SC/MCs,Pedestrians
+Bhalswa Chowk,2023,1,4,6,11,5,6,4,12,2,7,2000-2300,1700-1900,1400-1700,Car/Taxi,HTVs,SC/MCs,Pedestrians
+Bhalswa Chowk,2024,0,13,6,19,17,6,4,12,2,7,2000-2300,1700-1900,1400-1700,Car/Taxi,Unknown vehicle,SC/MCs,Pedestrians
+Libaspur Bus Stand,2023,0,11,7,18,16,7,2,12,4,6,0000-0200,0800-0900,1000-1100,HTVs,LGVs,Pedestrians,SC/MCs
+Libaspur Bus Stand,2024,0,12,6,18,18,6,2,12,4,6,0000-0200,0800-0900,1000-1100,HTVs,Unknown vehicle,Pedestrians,SC/MCs

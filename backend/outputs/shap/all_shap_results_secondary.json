@@ -1,0 +1,205 @@
+{
+  "RandomForest": {
+    "model_name": "RandomForest",
+    "feature_importance": [
+      {
+        "name": "Age_band_of_casualty_na",
+        "importance": 0.061418
+      },
+      {
+        "name": "Casualty_class_na",
+        "importance": 0.059715
+      },
+      {
+        "name": "Sex_of_casualty_na",
+        "importance": 0.052775
+      },
+      {
+        "name": "Sex_of_casualty_Male",
+        "importance": 0.029133
+      },
+      {
+        "name": "Lanes_or_Medians_Undivided Two way",
+        "importance": 0.015379
+      },
+      {
+        "name": "Age_band_of_casualty_Over 51",
+        "importance": 0.013089
+      },
+      {
+        "name": "Casualty_class_Pedestrian",
+        "importance": 0.012535
+      },
+      {
+        "name": "Age_band_of_casualty_31-50",
+        "importance": 0.012245
+      },
+      {
+        "name": "Vehicle_driver_relation_Owner",
+        "importance": 0.007115
+      },
+      {
+        "name": "Driving_experience_5-10yr",
+        "importance": 0.006901
+      },
+      {
+        "name": "Types_of_Junction_Y Shape",
+        "importance": 0.006629
+      },
+      {
+        "name": "Vehicle_movement_Going straight",
+        "importance": 0.006603
+      },
+      {
+        "name": "Road_allignment_Tangent road with flat terrain",
+        "importance": 0.006346
+      },
+      {
+        "name": "Lanes_or_Medians_Two-way (divided with broken lines road marking)",
+        "importance": 0.005921
+      },
+      {
+        "name": "Educational_level_Junior high school",
+        "importance": 0.005824
+      }
+    ]
+  },
+  "XGBoost": {
+    "model_name": "XGBoost",
+    "feature_importance": [
+      {
+        "name": "Casualty_class_na",
+        "importance": 1.756321
+      },
+      {
+        "name": "Sex_of_casualty_Male",
+        "importance": 0.396821
+      },
+      {
+        "name": "Sex_of_casualty_na",
+        "importance": 0.342092
+      },
+      {
+        "name": "Lanes_or_Medians_Undivided Two way",
+        "importance": 0.299841
+      },
+      {
+        "name": "Age_band_of_casualty_Over 51",
+        "importance": 0.212415
+      },
+      {
+        "name": "Road_allignment_Tangent road with flat terrain",
+        "importance": 0.158439
+      },
+      {
+        "name": "Casualty_class_Pedestrian",
+        "importance": 0.138792
+      },
+      {
+        "name": "Vehicle_driver_relation_Owner",
+        "importance": 0.128756
+      },
+      {
+        "name": "Type_of_vehicle_freq",
+        "importance": 0.112295
+      },
+      {
+        "name": "Cause_of_accident_freq",
+        "importance": 0.111436
+      },
+      {
+        "name": "Age_band_of_casualty_Under 18",
+        "importance": 0.106346
+      },
+      {
+        "name": "Hour",
+        "importance": 0.083961
+      },
+      {
+        "name": "Age_band_of_driver_31-50",
+        "importance": 0.083614
+      },
+      {
+        "name": "DayOfWeek_Num",
+        "importance": 0.081229
+      },
+      {
+        "name": "Time_Location_Interaction_freq",
+        "importance": 0.078695
+      }
+    ]
+  },
+  "GradientBoosting": {
+    "model_name": "GradientBoosting",
+    "feature_importance": []
+  },
+  "SVM": {
+    "model_name": "SVM",
+    "feature_importance": []
+  },
+  "LogisticRegression": {
+    "model_name": "LogisticRegression",
+    "feature_importance": [
+      {
+        "name": "Road_surface_type_Asphalt roads with some distress",
+        "importance": 80977544919396.9
+      },
+      {
+        "name": "Area_accident_occured_  Recreational areas",
+        "importance": 80977544919396.9
+      },
+      {
+        "name": "Area_accident_occured_Other",
+        "importance": 0.024645
+      },
+      {
+        "name": "Area_accident_occured_Office areas",
+        "importance": 0.024032
+      },
+      {
+        "name": "Age_band_of_casualty_na",
+        "importance": 0.023567
+      },
+      {
+        "name": "Casualty_class_na",
+        "importance": 0.022684
+      },
+      {
+        "name": "Sex_of_casualty_na",
+        "importance": 0.020085
+      },
+      {
+        "name": "Area_accident_occured_Residential areas",
+        "importance": 0.015496
+      },
+      {
+        "name": "Sex_of_casualty_Male",
+        "importance": 0.009758
+      },
+      {
+        "name": "Time_Period_Night",
+        "importance": 0.00958
+      },
+      {
+        "name": "Types_of_Junction_Other",
+        "importance": 0.00922
+      },
+      {
+        "name": "Area_accident_occured_ Church areas",
+        "importance": 0.009078
+      },
+      {
+        "name": "Is_Night",
+        "importance": 0.006946
+      },
+      {
+        "name": "Work_of_casuality_Self-employed",
+        "importance": 0.006883
+      },
+      {
+        "name": "Casualty_class_Pedestrian",
+        "importance": 0.006869
+      }
+    ]
+  }
+}

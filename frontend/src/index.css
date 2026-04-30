@@ -1,0 +1,76 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+  body {
+    font-family: 'Segoe UI', 'Inter', -apple-system, sans-serif;
+    background-color: #1B1B2F;
+    color: #FFFFFF;
+    overflow-x: hidden;
+  }
+
+  ::-webkit-scrollbar {
+    width: 6px;
+    height: 6px;
+  }
+
+  ::-webkit-scrollbar-track {
+    background: #162447;
+  }
+
+  ::-webkit-scrollbar-thumb {
+    background: #2D3748;
+    border-radius: 3px;
+  }
+
+  ::-webkit-scrollbar-thumb:hover {
+    background: #4A5568;
+  }
+}
+
+@layer components {
+  .glass-card {
+    @apply bg-pbi-card rounded-xl border border-pbi-border shadow-card 
+           transition-all duration-300 hover:shadow-card-hover hover:-translate-y-0.5;
+  }
+
+  .glass-card-static {
+    @apply bg-pbi-card rounded-xl border border-pbi-border shadow-card;
+  }
+
+  .pbi-input {
+    @apply bg-pbi-bg2 border border-pbi-border rounded-lg px-3 py-2 text-white text-sm
+           focus:outline-none focus:ring-2 focus:ring-pbi-blue focus:border-transparent
+           placeholder-pbi-muted transition-all duration-200;
+  }
+
+  .pbi-select {
+    @apply bg-pbi-bg2 border border-pbi-border rounded-lg px-3 py-2 text-white text-sm
+           focus:outline-none focus:ring-2 focus:ring-pbi-blue focus:border-transparent
+           appearance-none cursor-pointer transition-all duration-200;
+  }
+
+  .pbi-button {
+    @apply bg-pbi-blue hover:bg-blue-600 text-white font-semibold py-2.5 px-6 rounded-lg
+           transition-all duration-200 transform hover:scale-[1.02] active:scale-[0.98]
+           shadow-lg hover:shadow-xl disabled:opacity-50 disabled:cursor-not-allowed
+           disabled:hover:scale-100;
+  }
+
+  .pbi-button-outline {
+    @apply border border-pbi-blue text-pbi-blue hover:bg-pbi-blue hover:text-white
+           font-semibold py-2.5 px-6 rounded-lg transition-all duration-200;
+  }
+
+  .shimmer {
+    @apply animate-pulse bg-gradient-to-r from-pbi-card via-pbi-card-hover to-pbi-card 
+           bg-[length:200%_100%];
+  }
+}

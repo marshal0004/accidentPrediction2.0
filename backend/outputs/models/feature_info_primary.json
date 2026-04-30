@@ -1,0 +1,40 @@
+{
+  "feature_names": [
+    "Accident_Location_A",
+    "Accident_Location_A_Chainage_km",
+    "Accident_Location_A_Chainage_km_RoadSide",
+    "Causes_D",
+    "Road_Feature_E",
+    "Road_Condition_F",
+    "Weather_Conditions_H",
+    "Vehicle_Type_Involved_J_V1",
+    "Vehicle_Type_Involved_J_V2",
+    "Hour",
+    "Is_Night",
+    "Month",
+    "Year",
+    "Quarter",
+    "DayOfMonth",
+    "DayOfWeek_Num",
+    "Is_Weekend",
+    "Weather_Road_Interaction_freq",
+    "Time_Period_Evening",
+    "Time_Period_Morning",
+    "Time_Period_Night",
+    "Time_Location_Interaction_Afternoon_2",
+    "Time_Location_Interaction_Evening_1",
+    "Time_Location_Interaction_Evening_2",
+    "Time_Location_Interaction_Morning_1",
+    "Time_Location_Interaction_Morning_2",
+    "Time_Location_Interaction_Night_1",
+    "Time_Location_Interaction_Night_2"
+  ],
+  "label_mapping": {
+    "0": "1",
+    "1": "2",
+    "2": "3",
+    "3": "4"
+  },
+  "n_features": 28,
+  "n_classes": 4
+}

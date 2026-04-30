@@ -1,0 +1,89 @@
+S_No,Zone_Name,Simple_Crashes,Fatal_Crashes,Total_Crashes,Road_Name
+1,Azadpur Sabzi Mandi,9,11,20,GTK Road
+2,Wazirabad,6,9,15,Outer Ring Road
+3,Akshardham Mandir,11,8,19,NH-24
+4,ISBT Kashmiri Gate,9,8,17,Ring Road
+5,Anand Vihar ISBT,8,8,16,Road No.56
+6,SGT Nagar,11,7,18,GTK Road
+7,Rajoukari Flyover,9,7,16,NH-8
+8,Near Yashobhoomi Convention Centre Dwarka,5,7,12,UER II
+9,Bhalswa Chowk,13,6,19,Outer Ring Road
+10,Libaspur Bus Stand,12,6,18,GTK Road
+11,Mukundpur Chowk,8,6,14,Outer Ring Road
+12,Geeta Colony Flyover,5,6,11,Yamuna Pusta Road
+13,Chandgi Ram Akhara,4,6,10,Outer Ring Road
+14,Hanuman Mandir JJ Colony Bawana,14,5,19,Bawana Road
+15,Seelampur T Point,12,5,17,G.T.Road
+16,Singhu Border,10,5,15,GTK Road
+17,Khajoori Chowk,9,5,14,Wazirabad Road
+18,Britannia Chowk,8,5,13,Ring Road
+19,Metro Station Haider Pur,8,5,13,Outer Ring Road
+20,Sec.23 Petrol Pump,7,5,12,Qutab Garh Road
+21,Zakhira Flyover,6,5,11,Rohtak Road
+22,Red Light Pulprahlad Pur,5,5,10,Mehrauli Badarpur Rd
+23,Prem Bari Pull,4,5,9,Ring Road
+24,Hanuman Mandir Yamuna Bazar,4,5,9,Ring Road
+25,Punjabi Bagh Chowk,4,5,9,Ring Road
+26,Mukarba Chowk,3,5,8,GTK Road
+27,Shamshan Ghat Geeta Colony,3,5,8,Yamuna Pusta Road
+28,Goyla Village Najafgarh,2,5,7,Goyla Dairy Road
+29,Gandhi Vihar Bus Stand,2,5,7,Outer Ring Road
+30,Archana Cinema Red Light,2,5,7,Josef Brij Tito Marg
+31,Sarai Kale Khan,16,4,20,Ring Road
+32,Kashmiri Gate Chowk,14,4,18,Boulevard Road
+33,Burari Chowk,12,4,16,Outer Ring Road
+34,Adarsh Nagar,12,4,16,GTK Road
+35,Chhatra Marg Crossing,12,4,16,Ring Road
+36,Shastri Nagar Metro Station,10,4,14,Vir Banda Bairagi Mr
+37,Majlis Park Metro Station,7,4,11,Road No.51
+38,Keshopur T Point,7,4,11,Outer Ring Road
+39,Azad Pur Chowk,7,4,11,GTK Road
+40,Delhi Gate,6,4,10,N. Subhash Marg
+41,Siraspur,6,4,10,GTK Road
+42,Dhaula Kuan,5,4,9,Ring Road
+43,Monestry Ring Road,5,4,9,Ring Road
+44,Kings Way Camp Chowk,4,4,8,Ring Road
+45,Govindpuri Metro Station,4,4,8,Anand Mai Marg
+46,Nangloi Metro Station,3,4,7,Rohtak Road
+47,Metro Station Madipur,3,4,7,Rohtak Road
+48,Keval Park Road No. 51,2,4,6,Road No. 51
+49,Near Triveni Park Nangal Village Delhi Cantt,2,4,6,Pankha Road
+50,Near SDM Office Geeta Colony,1,4,5,Yamuna Pusta Road
+51,Flyover Raja Ram Marg,1,4,5,Raja Ram Kohli Marg
+52,Telco Gajipur,9,3,12,Road No.56
+53,Loni Road Crossing,8,3,11,Wazirabad Road
+54,Metro Station Dilshad Garden,7,3,10,G.T.Road
+55,Hamdard Nagar Red Light,7,3,10,Mehrauli Badarpur Rd
+56,Uttam Nagar,7,3,10,Najafgarh Road
+57,Radisson Hotel,6,3,9,NH-8
+58,District Center Janakpuri,6,3,9,Najafgarh Road
+59,Udyog Nagar,6,3,9,Rohtak Road
+60,Sai Baba Mandir Najafgarh,6,3,9,Najafgarh Road
+61,Rama Road Crossing,6,3,9,Patel Road
+62,C-1 Janakpuri,6,3,9,Pankha Road
+63,Ghewra More,5,3,8,Rohtak Road
+64,Deepali Chowk,5,3,8,Outer Ring Road
+65,CRPF Camp Sonia Vihar,5,3,8,Pusta Road
+66,Budhpur Ganda Nala/Hanuman Mandir,5,3,8,GTK Road
+67,Sai Baba Mandir Nh-1,4,3,7,GTK Road
+68,Khichadi Pur,4,3,7,NH-24
+69,Kirari More,4,3,7,Rohtak Road
+70,Jharera Village,4,3,7,NH-8
+71,Wazir Pur Depot,4,3,7,Ring Road
+72,Under Pass Gajipur,4,3,7,NH-24
+73,Hilton Hotel,3,3,6,Noida Link Road
+74,Ram Charan Aggarwal Chowk,3,3,6,BSZ Marg
+75,AIIMS,3,3,6,Ring Road
+76,Tilak Nagar Flyover,3,3,6,Najafgarh Road
+77,Shani Mandir Nh-1,3,3,6,GTK Road
+78,Tilak Marg Bhagwan Das Marg Crossing,3,3,6,Tilak Marg
+79,Nirankari Colony,3,3,6,Outer Ring Road
+80,Satya Niketan Nanakpura,3,3,6,Ring Road
+81,Near Haldi Ram Wazirpur,3,3,6,Ring Road
+82,Raja Harishchander Hospital,3,3,6,DSIDC Narela Road
+83,Shalimar Bagh,3,3,6,Ring Road
+84,Round About Bhairaon Enclave,3,3,6,Outer Ring Road
+85,Jeewan Mala Hospital,2,3,5,New Rohtak Road
+86,Tughlaqabad Village Red Light,2,3,5,Mehrauli Badarpur Rd
+87,Khel Gaon,2,3,5,NH-24
+88,Near KV School Naraina,2,3,5,Ring Road

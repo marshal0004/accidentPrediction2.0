@@ -1,0 +1,77 @@
+{
+  "chart_type": "grouped_bar",
+  "title": "Weather Impact on Severity",
+  "labels": [
+    "Cloudy",
+    "Fog or mist",
+    "Normal",
+    "Other",
+    "Raining",
+    "Raining and Windy",
+    "Snow",
+    "Unknown",
+    "Windy"
+  ],
+  "datasets": [
+    {
+      "label": "1",
+      "data": [
+        1,
+        0,
+        21,
+        1,
+        2,
+        0,
+        0,
+        0,
+        1
+      ],
+      "color": "#EF4444"
+    },
+    {
+      "label": "2",
+      "data": [
+        8,
+        0,
+        633,
+        15,
+        83,
+        2,
+        6,
+        21,
+        3
+      ],
+      "color": "#F97316"
+    },
+    {
+      "label": "3",
+      "data": [
+        78,
+        8,
+        5800,
+        167,
+        747,
+        29,
+        29,
+        157,
+        61
+      ],
+      "color": "#F59E0B"
+    },
+    {
+      "label": "na",
+      "data": [
+        38,
+        2,
+        3609,
+        113,
+        499,
+        9,
+        26,
+        114,
+        33
+      ],
+      "color": "#10B981"
+    }
+  ]
+}

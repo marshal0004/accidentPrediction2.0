@@ -1,0 +1,116 @@
+District,S_No,Road_Name,Fatal_Crashes,Total_Crashes,Persons_Killed
+Central,1.,Ring Road,11,35,14
+Central,2.,New Rohtak Road,4,10,4
+Central,3.,Desh Bandhu Gupta Rd,3,15,3
+Central,4.,Panchkuian Road,2,9,2
+Central,5.,Netaji Subhash Marg,2,8,2
+Central,6.,Qutab Road,2,3,2
+Central,7.,JawaharLal Nehru Rd,1,15,1
+Central,8.,Pusa Road,1,13,1
+Central,9.,Bahadur Shah Zafer Marg,1,8,1
+Central,10.,Asaf Ali Road,1,4,1
+South_West,1.,NH-8,19,61,19
+South_West,2.,201 No. Road,9,44,9
+South_West,3.,Station Road,3,10,3
+South_West,4.,Ring Road,3,5,3
+South_West,5.,Rao Tula Ram Marg,2,6,2
+South_West,6.,Sadar Thana Marg,2,5,2
+South_West,7.,Palam Road,1,3,1
+South_West,8.,Parade Road,1,3,1
+South_West,9.,Sardar Patel Marg,1,2,1
+New_Delhi,1.,Baba Kharak Singh Marg,6,12,7
+New_Delhi,2.,Ridge Road,3,3,3
+New_Delhi,3.,Janpath,2,6,2
+New_Delhi,4.,Sardar Patel Marg,2,5,2
+New_Delhi,5.,Prithviraj Road,1,5,1
+New_Delhi,6.,Kasturba Gandhi Marg,1,5,1
+New_Delhi,7.,C-Hexagon,1,5,1
+New_Delhi,8.,Panchkuian Road,1,4,1
+New_Delhi,9.,Mother Teresa Road,1,3,1
+New_Delhi,10.,Tilak Marg,1,2,1
+East,1.,NH-24,12,44,13
+East,2.,Road No 56,9,23,9
+East,3.,Yamuna Pusta Road,8,23,8
+East,4.,Vikas Marg,5,30,5
+East,5.,Road No 57,4,16,4
+East,6.,Kotla Road,3,12,3
+East,7.,Road No 58,3,7,3
+East,8.,Noida Road,2,7,2
+East,9.,Patpar Ganj Road,1,9,1
+East,10.,71 No Road,1,4,1
+North_East,1.,Grand Trunk Road,21,78,21
+North_East,2.,Wazirabad Road,20,97,20
+North_East,3.,Pusta Road,7,36,8
+North_East,4.,Road No 66,5,14,5
+North_East,5.,Road No.68,3,3,3
+North_East,6.,Loni Road,2,13,2
+North_East,7.,Karawal Nagar Road,1,8,1
+North_East,8.,Brijpuri Road,1,1,1
+North,1.,Ring Road,12,39,15
+North,2.,Outer Ring Road,11,29,11
+North,3.,Netaji Subhash Marg,4,11,4
+North,4.,Sardhanand Marg,4,4,4
+North,5.,Boulevard Road,2,16,2
+North,6.,SPM Marg,2,12,2
+North,7.,Raja Ram Marg,2,9,2
+North,8.,Shyam Nath Marg,1,8,1
+North,9.,Swami Narain Marg,1,7,2
+North,10.,Old Rohtak Road,1,6,1
+North_West,1.,GTK Road,44,132,45
+North_West,2.,Outer Ring Road,33,95,34
+North_West,3.,Ring Road,12,39,12
+North_West,4.,Narela Road,6,14,6
+North_West,5.,Burari Road,5,22,5
+North_West,6.,51 No Road,4,11,4
+North_West,7.,Road No 43,3,10,3
+North_West,8.,Road No 37,2,3,2
+North_West,9.,Parwana Road,2,2,2
+North_West,10.,Lawrence Road,1,3,1
+Outer_North,1.,Outer Ring Road,26,73,26
+Outer_North,2.,Bawana Road,19,45,19
+Outer_North,3.,Kanjhawala Road,6,31,6
+Outer_North,4.,Road No 41,6,16,7
+Outer_North,5.,Narela Road,3,7,3
+Outer_North,6.,Ram Murti Passi Road,1,4,1
+Outer_North,7.,Maharaja Agrasen Road,1,2,1
+Outer_North,8.,Badli Road,1,1,1
+South,1.,Ring Road,14,49,15
+South,2.,Mehrauli Gurgaon Road,11,23,11
+South,3.,Outer Ring Road,9,35,9
+South,4.,Mehrauli Badarpur Road,4,19,4
+South,5.,Aurobindo Marg,3,18,3
+South,6.,Mahipal Pur Road,3,14,3
+South,7.,Press Enclave Marg,2,8,2
+South,8.,Lala Lajpat Rai Path,1,17,1
+South,9.,Aruna Asfali Marg,1,8,1
+South,10.,Anuvrat Road,1,4,1
+South_East,1.,Mathura Road,14,77,15
+South_East,2.,Mehrauli Badarpur Road,14,53,14
+South_East,3.,Ring Road,7,43,7
+South_East,4.,13A No Road,6,23,7
+South_East,5.,Anand Mai Marg,5,22,5
+South_East,6.,Agra Canal Road,5,19,5
+South_East,7.,Outer Ring Road,4,22,4
+South_East,8.,Noida Dnd Road,4,10,5
+South_East,9.,NH-24,3,3,3
+South_East,10.,Lal Bahadur Shastri Marg,2,26,2
+West_Additional,1.,Najafgarh Road,22,84,26
+West_Additional,2.,Bijwasan Road,9,21,9
+West_Additional,3.,Dansha Road,8,16,8
+West_Additional,4.,NH-8,7,22,7
+West_Additional,5.,Jharoda Road,7,8,7
+West_Additional,6.,Outer Ring Road,5,12,5
+West_Additional,7.,Najafgarh Nangloi Road,3,8,3
+West_Additional,8.,Old Gurgaon Road,2,4,2
+West_Additional,9.,Ghuman Hera Marg,2,4,2
+West_Additional,10.,201 No. Road,2,4,2
+West,1.,Rohtak Road,46,136,48
+West,2.,Ring Road,25,69,25
+West,3.,Pankha Road,9,24,9
+West,4.,Dev Prakash Shastri Road,8,16,10
+West,5.,Najafgarh Nangloi Road,7,30,7
+West,6.,Outer Ring Road,7,14,7
+West,7.,New Rohtak Road,7,13,7
+West,8.,Najafgarh Road,6,23,6
+West,9.,Patel Road,4,27,4
+West,10.,Mayapuri Marg,4,9,4

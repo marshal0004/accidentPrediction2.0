@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Road_surface_type_Asphalt roads with some distress",
+    "importance": 80977544919396.9
+  },
+  {
+    "name": "Area_accident_occured_  Recreational areas",
+    "importance": 80977544919396.9
+  },
+  {
+    "name": "Area_accident_occured_Other",
+    "importance": 0.024645
+  },
+  {
+    "name": "Area_accident_occured_Office areas",
+    "importance": 0.024032
+  },
+  {
+    "name": "Age_band_of_casualty_na",
+    "importance": 0.023567
+  },
+  {
+    "name": "Casualty_class_na",
+    "importance": 0.022684
+  },
+  {
+    "name": "Sex_of_casualty_na",
+    "importance": 0.020085
+  },
+  {
+    "name": "Area_accident_occured_Residential areas",
+    "importance": 0.015496
+  },
+  {
+    "name": "Sex_of_casualty_Male",
+    "importance": 0.009758
+  },
+  {
+    "name": "Time_Period_Night",
+    "importance": 0.00958
+  },
+  {
+    "name": "Types_of_Junction_Other",
+    "importance": 0.00922
+  },
+  {
+    "name": "Area_accident_occured_ Church areas",
+    "importance": 0.009078
+  },
+  {
+    "name": "Is_Night",
+    "importance": 0.006946
+  },
+  {
+    "name": "Work_of_casuality_Self-employed",
+    "importance": 0.006883
+  },
+  {
+    "name": "Casualty_class_Pedestrian",
+    "importance": 0.006869
+  }
+]

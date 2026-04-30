@@ -1,0 +1,34 @@
+S_No,Circle_Name,Crash_Prone_Zones,Simple_Crashes,Fatal_Crashes,Total_Crashes
+1.,Burari Circle,10,63,49,112
+2.,Seema Puri Circle,7,47,18,65
+3.,Rohini Circle,5,22,17,39
+4.,Civil Lines Circle,4,43,14,57
+5.,Kalyan Puri Circle,4,29,11,40
+6.,Sarita Vihar Circle,4,21,11,32
+7.,Shahdara Circle,4,37,14,51
+8.,Delhi Cantt Circle,3,14,10,24
+9.,Khajoori Circle,3,26,6,32
+10.,Kotwali Circle,3,20,8,28
+11.,Punjabi Bagh Circle,3,26,14,40
+12.,Vivek Vihar Circle,3,15,11,26
+13.,Ashok Vihar Circle,2,6,7,13
+14.,Hauz Khas Circle,2,5,6,11
+15.,Janak Puri Circle,2,12,7,19
+16.,Kalkaji Circle,2,10,7,17
+17.,Lajpat Nagar Circle,2,14,6,20
+18.,Maya Puri Circle,2,12,7,19
+19.,Model Town Circle,2,3,7,10
+20.,Nangloi Circle,2,7,7,14
+21.,Narela Circle,2,9,6,15
+22.,Patel Nagar Circle,2,16,10,26
+23.,R.K. Puram Circle,2,16,7,23
+24.,Rajouri Garden Circle,2,10,6,16
+25.,Tilak Nagar Circle,2,7,6,13
+26.,Dwarka Circle,1,11,1,12
+27.,Mangol Puri Circle,1,5,4,9
+28.,Najafgarh Circle,1,3,3,6
+29.,Parliament Street Circle,1,5,4,9
+30.,Sabzi Mandi Circle,1,8,2,10
+31.,Saket Circle,1,4,3,7
+32.,Sukhdev Vihar Circle,1,4,3,7
+33.,Vasant Vihar Circle,1,8,2,10

@@ -1,0 +1,22 @@
+{
+  "chart_type": "bar",
+  "title": "Accidents by Day of Week",
+  "labels": [
+    "Friday",
+    "Thursday",
+    "Wednesday",
+    "Tuesday",
+    "Monday",
+    "Saturday",
+    "Sunday"
+  ],
+  "values": [
+    2041,
+    1851,
+    1840,
+    1770,
+    1681,
+    1666,
+    1467
+  ]
+}

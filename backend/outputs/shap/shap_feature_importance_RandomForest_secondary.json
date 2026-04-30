@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Age_band_of_casualty_na",
+    "importance": 0.061418
+  },
+  {
+    "name": "Casualty_class_na",
+    "importance": 0.059715
+  },
+  {
+    "name": "Sex_of_casualty_na",
+    "importance": 0.052775
+  },
+  {
+    "name": "Sex_of_casualty_Male",
+    "importance": 0.029133
+  },
+  {
+    "name": "Lanes_or_Medians_Undivided Two way",
+    "importance": 0.015379
+  },
+  {
+    "name": "Age_band_of_casualty_Over 51",
+    "importance": 0.013089
+  },
+  {
+    "name": "Casualty_class_Pedestrian",
+    "importance": 0.012535
+  },
+  {
+    "name": "Age_band_of_casualty_31-50",
+    "importance": 0.012245
+  },
+  {
+    "name": "Vehicle_driver_relation_Owner",
+    "importance": 0.007115
+  },
+  {
+    "name": "Driving_experience_5-10yr",
+    "importance": 0.006901
+  },
+  {
+    "name": "Types_of_Junction_Y Shape",
+    "importance": 0.006629
+  },
+  {
+    "name": "Vehicle_movement_Going straight",
+    "importance": 0.006603
+  },
+  {
+    "name": "Road_allignment_Tangent road with flat terrain",
+    "importance": 0.006346
+  },
+  {
+    "name": "Lanes_or_Medians_Two-way (divided with broken lines road marking)",
+    "importance": 0.005921
+  },
+  {
+    "name": "Educational_level_Junior high school",
+    "importance": 0.005824
+  }
+]

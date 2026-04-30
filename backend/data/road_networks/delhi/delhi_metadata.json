@@ -1,0 +1,20 @@
+{
+  "city_key": "delhi",
+  "city_name": "Delhi, India",
+  "osm_query": "Delhi, India",
+  "cached_at": "2026-04-30T22:24:58.044067",
+  "total_nodes": 10160,
+  "total_edges": 24380,
+  "bbox": {
+    "lat_min": 28.4,
+    "lat_max": 28.9,
+    "lon_min": 76.8,
+    "lon_max": 77.35
+  },
+  "center": [
+    28.6139,
+    77.209
+  ],
+  "network_type": "drive",
+  "crs": "EPSG:4326"
+}

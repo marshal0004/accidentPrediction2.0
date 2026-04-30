@@ -1,0 +1,22 @@
+{
+  "chart_type": "donut",
+  "title": "Accident Severity Distribution",
+  "labels": [
+    "3",
+    "2",
+    "4",
+    "1"
+  ],
+  "values": [
+    3088,
+    2904,
+    1416,
+    708
+  ],
+  "colors": [
+    "#EF4444",
+    "#F97316",
+    "#F59E0B",
+    "#10B981"
+  ]
+}

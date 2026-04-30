@@ -1,0 +1,18 @@
+{
+  "dataset": "primary",
+  "smote_method": "SMOTE",
+  "train_size_original": 6492,
+  "train_size_after_smote": 9880,
+  "test_size": 1624,
+  "n_features": 28,
+  "models_trained": [
+    "RandomForest",
+    "XGBoost",
+    "GradientBoosting",
+    "SVM",
+    "LogisticRegression"
+  ],
+  "models_failed": [],
+  "best_model": "XGBoost",
+  "best_f1_weighted": 0.8891
+}

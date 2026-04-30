@@ -1,0 +1,13 @@
+Metric,Value
+Total Circles Analyzed,30
+Total Fatal Accidents (all circles),910
+Total Accident Prone Zones Identified,64
+Most Dangerous Circle,BURARI (106 fatal)
+Safest Circle,PARLIAMENT HOUSE (2 fatal)
+Top Victim Type,PEDESTRIAN
+Top Offending Vehicle Type,UNKNOWN VEHICLE
+Most Common Dangerous Road,RING ROAD / OUTER RING ROAD
+Most Vulnerable Time Slot,2200-2300 / 2300-2400
+Circles with Most Prone Zones,BURARI (10 zones)
+Circles with Zero Prone Zones,9
+Year,2018

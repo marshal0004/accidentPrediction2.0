@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Casualty_class_na",
+    "importance": 1.756321
+  },
+  {
+    "name": "Sex_of_casualty_Male",
+    "importance": 0.396821
+  },
+  {
+    "name": "Sex_of_casualty_na",
+    "importance": 0.342092
+  },
+  {
+    "name": "Lanes_or_Medians_Undivided Two way",
+    "importance": 0.299841
+  },
+  {
+    "name": "Age_band_of_casualty_Over 51",
+    "importance": 0.212415
+  },
+  {
+    "name": "Road_allignment_Tangent road with flat terrain",
+    "importance": 0.158439
+  },
+  {
+    "name": "Casualty_class_Pedestrian",
+    "importance": 0.138792
+  },
+  {
+    "name": "Vehicle_driver_relation_Owner",
+    "importance": 0.128756
+  },
+  {
+    "name": "Type_of_vehicle_freq",
+    "importance": 0.112295
+  },
+  {
+    "name": "Cause_of_accident_freq",
+    "importance": 0.111436
+  },
+  {
+    "name": "Age_band_of_casualty_Under 18",
+    "importance": 0.106346
+  },
+  {
+    "name": "Hour",
+    "importance": 0.083961
+  },
+  {
+    "name": "Age_band_of_driver_31-50",
+    "importance": 0.083614
+  },
+  {
+    "name": "DayOfWeek_Num",
+    "importance": 0.081229
+  },
+  {
+    "name": "Time_Location_Interaction_freq",
+    "importance": 0.078695
+  }
+]

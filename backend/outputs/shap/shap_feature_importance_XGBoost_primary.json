@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Accident_Location_A_Chainage_km",
+    "importance": 0.475604
+  },
+  {
+    "name": "Vehicle_Type_Involved_J_V1",
+    "importance": 0.36246
+  },
+  {
+    "name": "Year",
+    "importance": 0.240794
+  },
+  {
+    "name": "Causes_D",
+    "importance": 0.235423
+  },
+  {
+    "name": "Hour",
+    "importance": 0.219828
+  },
+  {
+    "name": "DayOfMonth",
+    "importance": 0.216193
+  },
+  {
+    "name": "Month",
+    "importance": 0.19018
+  },
+  {
+    "name": "Vehicle_Type_Involved_J_V2",
+    "importance": 0.170771
+  },
+  {
+    "name": "DayOfWeek_Num",
+    "importance": 0.169934
+  },
+  {
+    "name": "Weather_Road_Interaction_freq",
+    "importance": 0.121525
+  },
+  {
+    "name": "Quarter",
+    "importance": 0.1168
+  },
+  {
+    "name": "Accident_Location_A_Chainage_km_RoadSide",
+    "importance": 0.076732
+  },
+  {
+    "name": "Weather_Conditions_H",
+    "importance": 0.064307
+  },
+  {
+    "name": "Road_Condition_F",
+    "importance": 0.062384
+  },
+  {
+    "name": "Is_Weekend",
+    "importance": 0.050031
+  }
+]

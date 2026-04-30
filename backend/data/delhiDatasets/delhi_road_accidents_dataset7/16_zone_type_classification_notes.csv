@@ -1,0 +1,6 @@
+S_No,Zone_Type,Description
+1,Multi-level Intersection,"Intersections modified by making flyovers, underpasses, flyover loops at normal intersections. e.g. Punjabi Bagh chowk, Dhaula Kuan, Mukarba chowk"
+2,Multi-Intersection,Junction points of more than 2 roads or a stretch of single major road having more than 2 minor roads joining within 500 meter stretch
+3,Exchange Hub,"Places where there is facility of changing of different modes of transport like city buses, TSRs, Gramin sewa, RTVs, interstate buses, E-rickshaw at the same place. e.g. ISBT, Peera garhi chowk, Mukarba chowk"
+4,Overlap Note,"Classification does not completely segregate one category from the other - some metro stations are also exchange hubs (e.g. Peera garhi chowk), some Exchange hubs are also multilevel intersections (e.g. Mukarba chowk)"
+5,Key Observation,"Intersections of different types are more prone to accidents. Multilevel intersections are the most dangerous. Other accident-prone places are places of high footfall (bus stands, metro stations, exchange hubs) indicating lack of proper systematic and planned last mile connectivity"

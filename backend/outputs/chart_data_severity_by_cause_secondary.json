@@ -1,0 +1,82 @@
+{
+  "chart_type": "horizontal_bar",
+  "title": "Top Accident Causes by Severity",
+  "labels": [
+    "No distancing",
+    "Changing lane to the right",
+    "Changing lane to the left",
+    "Driving carelessly",
+    "No priority to vehicle",
+    "Moving Backward",
+    "No priority to pedestrian",
+    "Other",
+    "Overtaking",
+    "Driving under the influence of drugs"
+  ],
+  "datasets": [
+    {
+      "label": "1",
+      "data": [
+        7,
+        2,
+        3,
+        6,
+        1,
+        1,
+        2,
+        0,
+        0,
+        1
+      ],
+      "color": "#EF4444"
+    },
+    {
+      "label": "2",
+      "data": [
+        134,
+        109,
+        101,
+        91,
+        75,
+        74,
+        56,
+        35,
+        18,
+        24
+      ],
+      "color": "#F97316"
+    },
+    {
+      "label": "3",
+      "data": [
+        1327,
+        1032,
+        868,
+        833,
+        665,
+        662,
+        397,
+        251,
+        250,
+        162
+      ],
+      "color": "#F59E0B"
+    },
+    {
+      "label": "na",
+      "data": [
+        795,
+        665,
+        501,
+        472,
+        466,
+        400,
+        266,
+        170,
+        162,
+        153
+      ],
+      "color": "#10B981"
+    }
+  ]
+}
