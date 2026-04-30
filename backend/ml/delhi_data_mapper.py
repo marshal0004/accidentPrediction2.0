@@ -3429,4 +3429,3 @@ class DelhiDataMapper:
             with open(self.stats_path, "r") as f:
                 return json.load(f)
         return self.mapping_stats
-x
