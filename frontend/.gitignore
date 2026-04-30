@@ -17,6 +17,16 @@ venv/
 # testing
 /coverage
 
+# Frontend build
+frontend/build/
+frontend/node_modules/
+# ML outputs (large binary files)
+backend/outputs/models/
+backend/outputs/shap/*.npy
+backend/outputs/plots/
+backend/cache/
+backend/data/geocode_cache/
+
 # production
 /build
 
