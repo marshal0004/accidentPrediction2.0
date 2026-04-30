@@ -1,0 +1,64 @@
+# ── Python ──
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+venv/
+.venv/
+*.pyc
+*.pyo
+
+# ── Node ──
+node_modules/
+/.pnp
+.pnp.js
+/coverage
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# ── Frontend build ──
+frontend/build/
+frontend/node_modules/
+
+# ── Large ML model binary files ONLY ──
+backend/outputs/models/*.joblib
+backend/outputs/models/primary/*.joblib
+backend/outputs/models/secondary/*.joblib
+
+# ── Large shap numpy arrays ──
+backend/outputs/shap/*.npy
+
+# ── Large road network files ──
+backend/data/road_networks/**/*.graphml
+backend/data/road_networks/**/*.csv
+
+# ── Cache ──
+backend/cache/
+backend/data/geocode_cache/
+
+# ── Generated output (can be rebuilt) ──
+backend/outputs/digital_twin/
+backend/outputs/plots/
+backend/outputs/shap/*.png
+
+# ── Mapped accidents (generated, not source data) ──
+backend/data/mapped_accidents/
+
+# ── LibreOffice lock files ──
+.~lock.*
+**/.~lock.*
+
+# ── Backup files ──
+*.bak
+
+# ── OS ──
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# ── Keep all CSV files (explicitly) ──
+!backend/data/delhiDatasets/**/*.csv
+!backend/data/*.csv

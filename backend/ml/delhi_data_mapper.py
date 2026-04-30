@@ -483,6 +483,53 @@ class DelhiDataMapper:
         segment_id = self.edges_gdf.iloc[nearest_idx]["segment_id"]
         return segment_id, min_distance
 
+
+    def _find_segment_by_name(self, name):
+        """Find a road segment by matching location/road name against OSM edge names."""
+        if not name or not isinstance(name, str):
+            return None
+
+        name_lower = name.lower().strip()
+        if not name_lower:
+            return None
+
+        # Direct match
+        if name_lower in self.road_name_index:
+            idx = self.road_name_index[name_lower]
+            return self.edges_gdf.iloc[idx]["segment_id"]
+
+        # Partial match - prioritize longer (more specific) keys
+        best_idx = None
+        best_len = 0
+        for key, idx in self.road_name_index.items():
+            if key in name_lower or name_lower in key:
+                if len(key) > best_len:
+                    best_len = len(key)
+                    best_idx = idx
+
+        if best_idx is not None:
+            return self.edges_gdf.iloc[best_idx]["segment_id"]
+
+        # Word-level matching (require at least 2 word matches)
+        words = name_lower.replace(",", " ").replace("/", " ").replace("-", " ").split()
+        words = [w for w in words if len(w) > 2]
+
+        if not words:
+            return None
+
+        scored = []
+        for key, idx in self.road_name_index.items():
+            key_words = key.split()
+            score = sum(1 for w in words if any(w in kw for kw in key_words))
+            if score >= 2:
+                scored.append((score, len(key), idx))
+
+        if scored:
+            scored.sort(key=lambda x: (-x[0], -x[1]))
+            return self.edges_gdf.iloc[scored[0][2]]["segment_id"]
+
+        return None
+
     # ─────────────────────────────────────────
     # HELPER METHODS
     # ─────────────────────────────────────────
@@ -3112,22 +3159,43 @@ class DelhiDataMapper:
         mapped_count = 0
         mapped_to_real = 0
         mapped_to_virtual = 0
+        name_matched = 0
 
         for rec in all_records:
             lat = rec.get("latitude")
             lon = rec.get("longitude")
-
-            if lat is None or lon is None:
-                continue
-
             road_name = rec.get("road_name", "")
+            location_name = rec.get("location_name", "")
 
-            # First try: map to existing road segment
-            segment_id, distance = self._find_nearest_segment(lat, lon, road_name)
+            segment_id = None
+            distance = None
 
-            # If no real segment found and record has GPS, create virtual segment
+            # ── Path 1: Has GPS → snap to nearest segment ──
+            if lat is not None and lon is not None:
+                segment_id, distance = self._find_nearest_segment(lat, lon, road_name)
+
+            # ── Path 2: No GPS or snap failed → match by road/location name ──
             if segment_id is None:
-                # Create a virtual segment for GPS points outside road network
+                for name in [road_name, location_name]:
+                    if name and isinstance(name, str):
+                        segment_id = self._find_segment_by_name(name)
+                        if segment_id:
+                            break
+
+                if segment_id:
+                    name_matched += 1
+                    # Use segment centroid as lat/lon
+                    seg_row = self.edges_gdf[
+                        self.edges_gdf["segment_id"] == segment_id
+                    ]
+                    if len(seg_row) > 0:
+                        centroid = seg_row.iloc[0].geometry.centroid
+                        lat = centroid.y
+                        lon = centroid.x
+                        distance = 0
+
+            # ── Path 3: Has GPS but no segment match → virtual segment ──
+            if segment_id is None and lat is not None and lon is not None:
                 virtual_seg = self._create_virtual_segment(lat, lon, road_name, rec)
                 segment_id = virtual_seg["segment_id"]
 
@@ -3136,8 +3204,8 @@ class DelhiDataMapper:
                 mapped[segment_id].append({
                     "accident_id": f"delhi_{mapped_count}",
                     "source": rec.get("source", "Delhi"),
-                    "location_name": rec.get("location_name", ""),
-                    "road_name": rec.get("road_name", ""),
+                    "location_name": location_name,
+                    "road_name": road_name,
                     "severity": rec.get("severity", "Minor"),
                     "total_accidents": rec.get("total_accidents", 1),
                     "fatal_accidents": rec.get("fatal_accidents", 0),
@@ -3156,14 +3224,19 @@ class DelhiDataMapper:
                 mapped_count += 1
                 continue
 
+            # ── Path 4: Complete failure → skip ──
+            if segment_id is None:
+                continue
+
+            # ── Add to mapped real segment ──
             if segment_id not in mapped:
                 mapped[segment_id] = []
 
             mapped[segment_id].append({
                 "accident_id": f"delhi_{mapped_count}",
                 "source": rec.get("source", "Delhi"),
-                "location_name": rec.get("location_name", ""),
-                "road_name": rec.get("road_name", ""),
+                "location_name": location_name,
+                "road_name": road_name,
                 "severity": rec.get("severity", "Minor"),
                 "total_accidents": rec.get("total_accidents", 1),
                 "fatal_accidents": rec.get("fatal_accidents", 0),
@@ -3181,8 +3254,12 @@ class DelhiDataMapper:
             mapped_to_real += 1
             mapped_count += 1
 
-        logger.info(f"Mapped {mapped_count} records: {mapped_to_real} to real segments, "
-                     f"{mapped_to_virtual} to virtual segments, {len(mapped)} total segments")
+        logger.info(
+            f"Mapped {mapped_count} records: {mapped_to_real} to real segments, "
+            f"{mapped_to_virtual} to virtual segments, "
+            f"{name_matched} by road name matching, "
+            f"{len(mapped)} total segments"
+        )
 
         # Aggregate per segment
         aggregated = self._aggregate_mapping(mapped)
@@ -3204,6 +3281,7 @@ class DelhiDataMapper:
             "records_with_gps": already_has_gps,
             "records_geocoded": geocoded_count,
             "records_geocode_failed": len(all_records) - already_has_gps - geocoded_count,
+            "records_name_matched": name_matched,
             "records_mapped_to_segments": mapped_to_real,
             "records_mapped_to_virtual": mapped_to_virtual,
             "total_accidents_mapped": total_accidents_mapped,
@@ -3351,3 +3429,4 @@ class DelhiDataMapper:
             with open(self.stats_path, "r") as f:
                 return json.load(f)
         return self.mapping_stats
+x
